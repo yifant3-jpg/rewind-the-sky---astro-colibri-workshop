@@ -1,0 +1,11 @@
+{
+  "circularId": 41503,
+  "createdOn": 1755886398407,
+  "format": "text/plain",
+  "submitter": "J. An <jiean0813@foxmail.com>",
+  "submittedHow": "web",
+  "subject": "LIGO/Virgo/KAGRA S250818k: JinShan optical observations of AT2025ulz",
+  "body": "J. An, X. Liu, Z.P. Zhu, S.Q. Jiang, L.B. He, D. Xu (NAOC), S.Y. Fu (HUST), J.Z. Liu (XAO) report on behalf of a large collaboration:\n\nWe observed the optical transient AT2025ulz (Stein et al., GCN 41414; Busmann et al., GCN 41421; Hall et al., GCN 41433; Karambelkar et al., GCN 41436; O’Connor et al., GCN 41452; Gillanders et al., GCN 41454; Liu et al., GCN 41461; Banerjee et al., GCN 41476; Perley et al., GCN 41480; D'Avanzo et al., GCN 41489; Malesani et al., GCN 41492; Smartt et al., GCN 41493; Bruni et al., GCN 41500; Santos et al., GCN 41501; Becerra et al., GCN 41502), possibly connected with the GW event S250818k (LVK Collaboration, GCNs 41437, 41440), using the 100C telescope of the JinShan project, located at Altay, Xinjiang, China. Our first epoch observation started on 2025 Aug 20.61 UT, i.e., 2.55 days after the GW trigger time, in the Sloan g-, r-, and i- filters with 1 hr exposure for each filter. \n\nBy image subtraction with the Legacy Survey template, we obtained a provisional magnitude of r = 22.8 +/- 0.3 (AB) at 2025 August 20.63 UT for AT2025ulz.\n\nWe acknowledge the excellent support from T.Q. Chen and J.F. Zhang for enabling these observations.",
+  "eventId": "LIGO/Virgo/KAGRA S250818k",
+  "bibcode": "2025GCN.41503....1A"
+}

@@ -1,0 +1,11 @@
+{
+  "format": "text/markdown",
+  "body": "Xander J. Hall (Carnegie Mellon U.), Robert Stein (UMD), Brendan O’Connor (Carnegie Mellon U.), and Antonella Palmese (Carnegie Mellon U.) report:\n\nWe requested ToO observations of AT 2025ulz, reported by Stein et al. (GCN 41414) as a possible counterpart to the LVK sub-threshold event S250818k (GCN 41437, 41440).\n\nThe observation was taken with a midpoint time of 2025-08-19T11:48:55.755, approximately 30 hours after the trigger, with a duration of 3.5ks.\n\nThe source was not detected with XRT with an upper limit of 3.8 * 10^-3 cts/s at 0.3 - 10 keV. Given the redshift of z = 0.0848 (GCN 41436), this gives a rough luminosity upper limit of 3.3 * 10^42 erg/s. \n\nWe clearly detect a source at the position of AT2025ulz in UVOT observations, conducted in the UVM2 filter, with a magnitude of m=22 AB. However, this flux is consistent with archival detections of the host galaxy in GALEX. We therefore find no evidence of transient UV emission in UVOT data.\n\nWe thank the Swift team, Observatory Duty Scientists and the PI for promptly scheduling and making these observations possible.\n",
+  "createdOn": 1755711801432,
+  "bibcode": "2025GCN.41453....1H",
+  "eventId": "LIGO/Virgo/KAGRA S250818k",
+  "subject": "LIGO/Virgo/KAGRA S250818k: Swift observations of AT 2025ulz",
+  "circularId": 41453,
+  "submitter": "xjh@andrew.cmu.edu",
+  "submittedHow": "web"
+}

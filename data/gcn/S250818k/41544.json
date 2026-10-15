@@ -1,0 +1,14 @@
+{
+  "submitter": "Rosa L. Becerra at Tor Vergata, Roma <rosa.becerra@roma2.infn.it>",
+  "circularId": 41544,
+  "bibcode": "2025GCN.41544....1B",
+  "eventId": "LIGO/Virgo/KAGRA S250818k",
+  "body": "Rosa L. Becerra (U Rome), Yuhan Yang (U Rome), Alan M. Watson (UNAM), Eleonora Troja (U Rome) and William H. Lee (UNAM) report on behalf of a larger team:\n\nWe continued monitoring AT2025ulz/ZTF25abjmnps, initially reported by Stein et al. (GCN 41414) within the localization region of the candidate gravitational wave event S250818k (LVK Collaboration, GCN 41437, 41440), using the OSIRIS instrument mounted on the GTC telescope. Our observations commenced at 2025-08-24 21:18 UTC (6.8 days after the trigger) and were carried out in the g, r, i and z filters at an average airmass of ~1.3.\n\nBy comparison with our first epoch at T+3.9 days (Becerra et al., GCN 41502), we confirm a significant rebrightening in both the r and z bands, measuring: \n\ndelta_r = 0.9 +/- 0.3\ndelta_z = 0.6 +/- 0.1\n\nOur observations are in agreement with the rebrightening observed in i-band (Freeburn et al. GCN 41507; Angulo et al. GCN 41518; Busmann et al. GCN 41535; Gillanders  et al. GCN 41540), a behavior that is not expected for kilonova emission. \n\nFurther observations are planned. \n\nWe thank the staff at the GTC, especially Antonio García Rodríguez, Antonio Marante Barreto, and Antonio Cabrera for the rapid execution of these observations. \n\n\n",
+  "subject": "LIGO/Virgo/KAGRA S250818k: GTC/OSIRIS Confirmation of Rebrightening of AT2025ulz",
+  "submittedHow": "web",
+  "createdOn": 1756148777284,
+  "format": "text/plain",
+  "editedOn": 1756215487309,
+  "version": 2,
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Rosa L. Becerra at Tor Vergata, Roma <rosa.becerra@roma2.infn.it>"
+}

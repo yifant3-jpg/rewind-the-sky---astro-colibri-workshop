@@ -1,0 +1,11 @@
+{
+  "circularId": 38321,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "submittedHow": "web",
+  "eventId": "LIGO/Virgo/KAGRA S241125n",
+  "body": "A.Ridnaia, D. Frederiks, A.Lysenko, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nKonus-Wind (KW) was observing the whole sky at the time of the\nLIGO/Virgo/KAGRA event S241125n (2024-11-25 01:01:16.780 UTC, hereafter T0;\nLIGO/Virgo/KAGRA Collaboration GCN Circ. 38305, 38309, 38312, 38313, 38315).\n\nNo triggered or waiting-mode KW GRBs happened between ~2 days\nbefore and ~15 hours after T0 (the current available data).\nUsing waiting-mode data within the interval T0 +/- 200 s,\nwe found no significant (> 5 sigma) excess over the background\nin both KW detectors on temporal scales from 2.944 s to 100 s.\n\nWe estimate an upper limit (90% conf.) on the 20 - 1500 keV fluence\nto 7.5x10^-7 erg/cm^2 for a burst lasting less than 2.944 s and having a\ntypical KW short GRB spectrum (an exponentially cut off power law (CPL) \nwith alpha =-0.5 and Ep=500 keV) and to 4.7x10^-7 erg/cm^2 for a burst\nhaving spectrum similar to that of GRB 170817A (a CPL with alpha =-0.62\nand Ep=185 keV). For a typical long GRB spectrum (the Band function with\nalpha=-1, beta=-2.5, and Ep=300 keV), the corresponding limiting peak flux \nis 2.2x10^-7 erg/cm^2/s (20 - 1500 keV, 2.944 s scale).\n\nAll the quoted values are preliminary.",
+  "createdOn": 1732623639382,
+  "bibcode": "2024GCN.38321....1R",
+  "format": "text/plain",
+  "subject": "LIGO/Virgo/KAGRA S241125n: Upper limits from Konus-Wind observations"
+}

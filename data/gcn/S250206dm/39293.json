@@ -1,0 +1,11 @@
+{
+  "bibcode": "2025GCN.39293....1X",
+  "body": "Z. L. Xu, D. Z. Meng, Z. Y. Liu, J.-A. Jiang, W. Zhao, M. X. Cai, T. G. Wang, X. Kong, Z. G. Dai, L. L. Fan (USTC), Y. Z. Fan, J. J. Geng, Z. P. Jin, X. F. Wu (PMO) report on behalf of the WFST Collaboration:\n\nWe conducted follow-up observations of gravitational wave event S250206dm (the LIGO-Virgo-Kagra Collaboration, GCN 39175) using the Wide Field Survey Telescope (WFST Collaboration; Wang et al., 2023). Our follow-up observations (Liu et al, GCN 39249) in r and i bands covered the region of AT2025bbo (Smartt et al, GCN 39244). Additionally, after checking WFST archive data, we found that one 60s r-band exposure (a 5-sigma limiting magnitude of 22.02) taken at 2025-01-12T13:57:44 UTC covered the region as well.\n\nWe performed image subtraction for WFST r-band images from 2025-02-07T14:23:27 UTC using the 2025-01-12 exposure as template, and for WFST i-band images using the first exposure taken at 2025-02-07T13:50:35 UTC as template. After image subtraction, we do not found any residuals in all difference images in two bands, suggesting that AT2025bbo is unlikely a transient occured aftet the GW event S250206dm (also see Chen et al, GCN 39285).",
+  "subject": "LIGO/Virgo/KAGRA S250206dm: AT 2025bbo observations with WFST",
+  "submitter": "Zhengyan Liu at USTC <ustclzy@mail.ustc.edu.cn>",
+  "createdOn": 1739320425040,
+  "circularId": 39293,
+  "submittedHow": "web",
+  "eventId": "LIGO/Virgo/KAGRA S250206dm",
+  "format": "text/plain"
+}

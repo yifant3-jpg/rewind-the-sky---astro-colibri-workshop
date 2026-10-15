@@ -1,0 +1,14 @@
+{
+  "bibcode": "2025GCN.39214....1B",
+  "circularId": 39214,
+  "eventId": "EP250207a",
+  "body": "Malte Busmann (LMU), Daniel Gruen (LMU), Brendan O’Connor (Carnegie Mellon U.) and Antonella Palmese (Carnegie Mellon U.), Julius Gassert (LMU), Lena Schnappinger (LMU), Julian Sommer (LMU), Lei Hu (Carnegie Mellon U.), Franziska Krause (LMU), Elia Enlghard (LMU) and Yajie Zhang (LMU) report:\n\nWe observed the 90% localization of EP-WXT trigger 01709131361, which lies inside of the 70% localization of S250206dm (LIGO Scientific Collaboration, GCN 39184) with the Three Channel Imager (3KK) at the Fraunhofer-Telescope Wendelstein (FTW) in the r, i and J band simultaneously for 17 x 180 s under suboptimal sky conditions. The observations started at 2025-02-07T17:52:05 UT (2.0 h after the EP-WXT trigger and 20.4 h after the NSBH/BNS merger).\n\nWe performed difference imaging in the r band with templates from the DESI Legacy Surveys and do not identify any variable optical sources to a 3-sigma depth of r>20.9 AB mag calibrated to the PS1 catalog. \n\nFurther observations are encouraged.\n\nWe thank Christoph Ries from the Wendelstein Observatory for obtaining these observations.\n\n\nUPDATE: We do see the flaring star mentioned by Levan et al. (GCN 39218) but initially rejected it. For details see O'Connor et al. (GCN 39219).",
+  "submitter": "Malte Busmann at Ludwig-Maximilians-Universität München <m.busmann@physik.lmu.de>",
+  "subject": "EP-WXT trigger 01709131361 / LIGO/Virgo/KAGRA S250206dm: FTW optical and NIR observations",
+  "submittedHow": "web",
+  "format": "text/markdown",
+  "editedOn": 1773228201591,
+  "version": 3,
+  "createdOn": 1738958323905,
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Malte Busmann at Ludwig-Maximilians-Universität München <m.busmann@physik.lmu.de>"
+}

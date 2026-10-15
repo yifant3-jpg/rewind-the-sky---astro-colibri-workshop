@@ -1,0 +1,11 @@
+{
+  "createdOn": 1756393087707,
+  "body": "G. Bruni (INAF-IAPS), \nP. Chandra (NRAO), \nS. Chatterjee(Rhodes University)\nC. Christy (Arizona),\nR. Kale (NCRA-TIFR), \nT. Laskar (Utah), \nS. Mohnani (IIT Indore),\nS. R. Das (IIST), \nL. Resmi (IIST), \nRoberto Ricci (URome)\nand\nE. Troja (URome)\nreport on behalf of multiple teams:\n\n\"We observed AT2025ulz (Stein et al. GCN 41414) with the Giant Metrewave Radio Telescope (GMRT) under programs 48_081 (PI: Mohnani), 48_090 (PI: Troja), 48_096 (PI: Chandra), 48_097 (PI: Bruni), 48_120 (PI: Laskar), and 48_151 (PI: Resmi) beginning on 2025 Aug 26 at 13:30 UT (~8.5 days after the LVK trigger) for 2 hours at Band 5 (1.3 GHz).\n\nIn preliminary analysis, we do not detect significant radio emission at the position of AT2025ulz or the host. The image rms is ~ 23 microJy/beam, resulting in a 5-sigma upper limit of 115 uJy, at an angular resolution of 2.5x2.0 arcsec.\n\nTogether with the VLA 3 GHz non-detection at the position of AT2025ulz (<40 uJy, GCN 41542), our GMRT 1.3 GHz upper limit suggests that the radio emission previously detected with MeerKAT at lower angular resolution may include a contribution from the host galaxy (as already noted in the GCN 41500).\n\nWe thank the GMRT staff for scheduling and executing these observations. GMRT is operated by the National Centre for Radio Astrophysics of the Tata Institute of Fundamental Research.",
+  "bibcode": "2025GCN.41577....1B",
+  "subject": "LIGO/Virgo/KAGRA S250818k: uGMRT 1.3 GHz observations of AT2025ulz",
+  "submittedHow": "web",
+  "circularId": 41577,
+  "eventId": "LIGO/Virgo/KAGRA S250818k",
+  "format": "text/plain",
+  "submitter": "pchandra@nrao.edu"
+}

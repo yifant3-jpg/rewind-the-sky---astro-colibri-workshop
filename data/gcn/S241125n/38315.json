@@ -1,0 +1,11 @@
+{
+  "bibcode": "2024GCN.38315....1L",
+  "format": "text/plain",
+  "body": "The LIGO Scientific Collaboration, the Virgo Collaboration, and the KAGRA Collaboration along with the Swift/BAT Collaboration report:\n\nWe have conducted further analysis of the LIGO Hanford Observatory (H1), LIGO Livingston Observatory (L1), and Virgo Observatory (V1) data around the time of the compact binary merger (CBC) candidate S241125n (GCN Circular 38305).\n\nA search performed by the RAVEN pipeline [1] previously (reported in GCN Circular 38309) found a temporal coincidence between S241125n and a sub-threshold Swift/BAT trigger with ID 754189311 (DeLaunay et al., GCN Circular 38308).\n\nCombined sky maps are also available:\n * combined-ext.multiorder.fits,0, an updated localization, distributed via GCN notice about 17 hours after the candidate event time.\n * combined-ext.multiorder.fits,1, an updated localization, distributed via GCN notice about 20 hours after the candidate event time.\n * combined-ext.multiorder.fits,2, an updated localization, distributed via GCN notice about 21 hours after the candidate event time.\n\nFor the combined-ext.multiorder.fits,2 sky map, the 90% credible region is 76 deg2 while the 50% credible region is less than 1 deg2. Considering the overlap of the individual sky maps, the estimated joint false alarm rate for the spatial and temporal coincidence is 1.8e-11 Hz, or about one in 1e3 years.\n\nFor further information about analysis methodology and the contents of this alert, refer to the LIGO/Virgo/KAGRA Public Alerts User Guide https://emfollow.docs.ligo.org/.\n\n [1] Urban, A. L. 2016, Ph.D. Thesis https://dc.uwm.edu/etd/1218 and Piotrzkowski, B. J. 2022, Ph.D. Thesis https://dc.uwm.edu/etd/3060\n",
+  "submittedHow": "web",
+  "circularId": 38315,
+  "eventId": "LIGO/Virgo/KAGRA S241125n",
+  "subject": "LIGO/Virgo/KAGRA S241125n: Updated Coincidence with External Event",
+  "createdOn": 1732575262342,
+  "submitter": "Brandon Piotrzkowski <brandon.piotrzkowski@ligo.org>"
+}

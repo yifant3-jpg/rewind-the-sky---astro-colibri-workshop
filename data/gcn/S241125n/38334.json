@@ -1,0 +1,10 @@
+{
+  "body": "D. Akl (AUS), S. Antier (OCA), J.-G. Ducoin (CPPM), Francesco Magnani\n(CPPM), Alan M. Watson (UNAM), Stéphane Basa (UAR Pytheas), William H.\nLee (UNAM), Jean-Luc Atteia (IRAP), Nathaniel R. Butler (ASU), Damien\nDornic (CPPM), Francis Fortin (IRAP), Simona Lombardo (LAM), and\nMargarita Pereyra (UNAM) report:\n\nWe imaged the field of the Swift/BAT-GUANO candidate counterpart\n(DeLaunay et al., GCN Circ. 38308) of the GW compact binary merger\ncandidate S241125n (LIGO/Virgo/KAGRA Collaborations, GCN Circ. 38305)\nduring the commissioning of the COLIBRÍ (SVOM/F-GFT) telescope at the\nObservatorio Astronómico Nacional on the Sierra de San Pedro Mártir in\nMexico.\n\nWe observed with the engineering test camera in a red filter that\napproximates SDSS r from 2024-11-26 02:08 to 07:50 UTC (25.1 to 30.8\nhours after the event) and obtained 255 minutes of exposure on a field\nabout 12 arcmin to a side centered on the BAT position given by\nDeLaunay et al. (GCN Circ. 38308). Results from a subset of these\nobservations were reported by Watson et al. (GCN Circ. 38317).\n\nOur image includes the positions of the S241125n_X3 and S241125n_X5\nXRT sources (Page et al., GCN 38324). We do not detect any clear\ncandidates within the localization regions of these sources to a\n3-sigma upper limit of\n\nr > 23.4\n\nOur upper limits are consistent with GCN. 38314, 38325, GCN 38328, GCN 38329.\n\nWe warmly thank the COLIBRÍ engineering team and the staff of the\nObservatorio Astronómico Nacional on the Sierra de San Pedro Mártir.\nWe warmly thank the GRANDMA IJCLAB team and S. Karpov for the access\nof the STDWeb service for STDPipe.\n",
+  "eventId": "LIGO/Virgo/KAGRA S241125n",
+  "subject": "LIGO/Virgo/KAGRA S241125n: COLIBRÍ Upper Limits on Optical Counterparts to Two of the Swift/XRT Sources",
+  "submittedHow": "email",
+  "circularId": 38334,
+  "bibcode": "2024GCN.38334....1A",
+  "createdOn": 1732672440788,
+  "submitter": "Alan Watson at UNAM <alan@astro.unam.mx>"
+}

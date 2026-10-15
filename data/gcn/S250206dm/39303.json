@@ -1,0 +1,11 @@
+{
+  "bibcode": "2025GCN.39303....1C",
+  "submittedHow": "web",
+  "body": "D. A. Coulter (STScI), C. D. Kilpatrick (NU), I. Andreoni (UNC), P. Macias (UCSC), R. J. Foley (UCSC), K. W. Davis (UCSC), V. A. Villar (Harvard) reports on behalf of the Gravity Collective [1, 2]:\n\nWe followed up the reported optical candidate, AT2025ber ([GCN 39286](https://gcn.nasa.gov/circulars/39286)), associated with S250206dm (LVK Collaboration, [GCN 39175](https://gcn.nasa.gov/circulars/39175)), with the ~0.22 square degree field-of-view near-IR imager NEWFIRM mounted on the Blanco 4-m telescope at CTIO, Chile. Our observations began on 2025-02-12 07:22 UTC (+5 days after trigger) and consisted of 40x80s exposures in H-band. Data were processed using standard procedures in photpipe [3]. We do not detect any emission at the site of AT2025ber in forced aperture photometry, and we derive a limiting magnitude of H=23.0 AB mag (3-sigma) at the site of the reported candidate. Our pointing and limit are available in the [GW Treasure Map](https://treasuremap.space/alerts?graceids=S250206dm) [4]. We thank Sean Points, Alberto Alvarez, and CTIO for their support in obtaining these observations.\n\n1. Kilpatrick, C. D. et al. 2021\n2. Coulter, D. A.,  et al. 2024\n3. Rest, A. et al. 2005\n4. Wyatt, S. D. et al. 2020\n",
+  "createdOn": 1739389510760,
+  "format": "text/markdown",
+  "subject": "LIGO/Virgo/KAGRA S250206dm: NEWFIRM NIR Follow-up of AT2025ber",
+  "submitter": "David Coulter at STScI <dcoulter@ucsc.edu>",
+  "eventId": "LIGO/Virgo/KAGRA S250206dm",
+  "circularId": 39303
+}

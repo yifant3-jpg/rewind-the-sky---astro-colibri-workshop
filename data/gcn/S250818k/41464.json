@@ -1,0 +1,11 @@
+{
+  "format": "text/plain",
+  "subject": "LIGO/Virgo/KAGRA S250818k: 10 GHz VLA observations of AT2025ulz",
+  "eventId": "LIGO/Virgo/KAGRA S250818k",
+  "createdOn": 1755780875108,
+  "submittedHow": "web",
+  "submitter": "Roberto Ricci at INAF-IRA <ricci@ira.inaf.it>",
+  "bibcode": "2025GCN.41464....1R",
+  "body": "Authors: R. Ricci, M. Yadav, E. Troja (U Rome) report:\n\nWe observed the optical transient AT2025ulz/ZTF25abjmnps (Stein et al. GCN 41414; Hall et al. GCN 41433; Karambelkar et al. GCN 41436; O’Connor et al. GCN 41452) possibly associated to the GW candidate S250818k (LVKC GCN 41437) with the Very Large Array in X-band at the centre frequency of 10 GHz with a bandwidth of 4 GHz on Aug 21st 2025, 3.1 days after the GW trigger. \n\nAfter reducing the data using the latest version of the CASA VLA pipeline (v6.6.1) and standard imaging procedures, we found no detection at the optical transient position down to a 3-sigma flux density upper limit of 30 microJy/beam. \n\nWe thank the VLA staff for promptly executing the observations.\n",
+  "circularId": 41464
+}

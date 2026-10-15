@@ -1,0 +1,11 @@
+{
+  "createdOn": 1755959662811,
+  "body": "Eleonora Troja (U Rome), Brendan O’Connor (Carnegie Mellon U.), and Rosa L. Becerra (U Rome) report on behalf of a larger team:\n\nWe observed the field of AT2025ulz/ZTF25abjmnps, reported by Stein et al. (GCN 41414) and possibly associated with the candidate gravitational wave signal S250818k (LVK Collaboration, GCN 41437, 41440) with the Hubble Space Telescope (PI: Troja) starting from 2025-08-22 20:04 UTC (~T_0+4.8 days).\n\nThe observations were carried out with the Wide-Field Camera 3 (WFC3) using the UVIS channel with the F336W filter and the IR channel with the F110W and F160W filters. Due to orbital constraints, we could acquire only short exposures of  ~120 s per filter.\n\nAt the location of AT2025ulz we clearly detect a source with preliminary AB magnitudes of:\n\nF110W = 22.91 +/- 0.12\nF160W = 22.8 +/- 0.3 (partial result based on 60 s exposure)\nF336W = 23.9 +/ -0.4\n\nThe above values were derived from aperture photometry after subtracting a 2D GALFIT (Peng et al. 2004) model for the host galaxy, and are not corrected for Galactic extinction. \n\nThe source is resolved in our nIR images and offset from the galactic center by ~0.9 arcsec, corresponding to a projected physical offset of ~1.5 kpc.  The measured nIR brightness matches well the kilonova AT2017gfo placed at the same distance of 388 Mpc. However, the blue color implied by the F336W observations is not consistent with a kilonova spectrum. \n\nAt present we cannot determine whether the F336W flux is mostly dominated by the transient’s light, e.g. a rising supernova, or by host emission, e.g. underlying star-formation or a young star cluster. While the bulk of the galaxy is not detected in F336W, a star forming clump is still possible, and a clump is seen in the IR filters at the southern edge of the disk. Continued monitoring of the source is encouraged to assess its variability. \n\nWe thank the HST staff, in particular Julia Roman-Duval, Patricia Royle, and William Januszweski for the rapid execution of these observations.\n\n",
+  "format": "text/plain",
+  "subject": "LIGO/Virgo/KAGRA S250818k: HST nIR detection of AT 2025ulz",
+  "bibcode": "2025GCN.41506....1T",
+  "eventId": "LIGO/Virgo/KAGRA S250818k",
+  "circularId": 41506,
+  "submittedHow": "web",
+  "submitter": "Eleonora <nora.gsfc@gmail.com>"
+}

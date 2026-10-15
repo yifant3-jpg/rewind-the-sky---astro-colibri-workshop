@@ -1,0 +1,11 @@
+{
+  "body": "R.-Z. Li (YNAO, CAS), X.-P. Xu, H. Sun, D.-Y. Li, Y. Liu, W. Yuan (NAO ,CAS) and B. Zhang (HKU) on behalf of the Einstein Probe (EP) team:\n\nWe performed a ToO observation with the Follow-up X-ray Telescope (FXT) on board the Einstein Probe (EP) for AT2025ulz, reported by Stein et al. (GCN 41414) as a possible counterpart to the LVK sub-threshold event S250818k (GCN 41437, 41440).\n\nThe observation was carried out from 2025-08-20 08:31:13 (UTC) to 2025-08-20 13:19:05 (UTC), with a total exposure time of about 9 ks. The midpoint time of this observation is 2025-08-20T10:55:09 (UTC), approximately 57.6 hours after the trigger (LVK Collaboration, GCN 41437).\n\nThe source was not detected with EP/FXT with an upper limit of 1.1e-3 cts/s at 0.5-10 keV. The estimated flux upper limit is 1.68e-14 erg/cm^2/s (90% C.L., at 0.5-10 keV). Given the redshift of z = 0.0848 (GCN 41436), this gives a rough luminosity upper limit of 3.2e41 erg/s.\n\nLaunched on January 9, 2024, EP is a space X-ray observatory to monitor the soft X-ray sky with X-ray follow-up capability (Yuan et al. 2022, Handbook of X-ray and Gamma-ray Astrophysics).",
+  "subject": "LIGO/Virgo/KAGRA S250818k: EP/FXT observation of AT 2025ulz",
+  "submittedHow": "web",
+  "submitter": "EP Team at NAOC/CAS <ep_ta@bao.ac.cn>",
+  "bibcode": "2025GCN.41460....1L",
+  "format": "text/plain",
+  "circularId": 41460,
+  "createdOn": 1755765523695,
+  "eventId": "LIGO/Virgo/KAGRA S250818k"
+}

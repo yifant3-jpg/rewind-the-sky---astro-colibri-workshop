@@ -1,0 +1,11 @@
+{
+  "circularId": 41410,
+  "body": "M. Nakajima, H. Negoro, K. Takagi (Nihon U.),\nN. Kawai, T. Mihara, (RIKEN),\nS. Sugita, M. Serino, Y. Kawakubo, H. Hiramatsu, Y. Kondo (AGU)\nreport on behalf of the MAXI team:\n\nWe examined MAXI/GSC all-sky X-ray images (2-20 keV)\nafter compact binary merger candidate S250818k at 2025-08-18 01:20:06.030 UTC.\n\nAt the trigger time of S250818k, the high-voltage of MAXI/GSC was on.\nThe instantaneous field of view of GSC at the GW trigger time covered 1% of the 90% credible region\nof the bayestar sky map, in which we found no significant new X-ray source.\nThe first one-orbit (92 min) scan observation with GSC after the event covered 78%\nof the 90% credible region of the bayestar skymap from 01:20:06 to 02:51:15 UTC (T0+0 to T0+5469 sec).\n\nNo significant new source was found in the region in the one-orbit scan observation.\nA typical 1-sigma averaged upper limit obtained in one scan observation\nis 20 mCrab at 2-20 keV.\n\nIf you require information about X-ray flux by MAXI/GSC at specific coordinates,\nplease contact the submitter of this circular by email.\n",
+  "subject": "LIGO/Virgo/KAGRA S250818k: Coverage and upper limits from MAXI/GSC observations",
+  "format": "text/plain",
+  "bibcode": "2025GCN.41410....1N",
+  "submittedHow": "web",
+  "submitter": "Satoshi Sugita at Aoyama Gakuin U. <sugita@phys.aoyama.ac.jp>",
+  "createdOn": 1755509915438,
+  "eventId": "LIGO/Virgo/KAGRA S250818k"
+}

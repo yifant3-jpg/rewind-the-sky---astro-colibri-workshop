@@ -1,0 +1,11 @@
+{
+  "createdOn": 1732635660474,
+  "eventId": "LIGO/VIRGO/KAGRA S241125n",
+  "body": "T. Mohan, G. Waratkar, A.P. Saikia, V. Swain, V. Bhalerao (IITB), G.C. Anupama, S. Barway (IIA) and K. Angail (IAO) report on behalf of the GIT team:\n\nWe observed the field of the Swift/BAT-GUANO candidate counterpart (DeLaunay et al., GCN 38308) to the LVK compact binary merger candidate S241125n (GCN 38305) with the 0.7m GROWTH-India Telescope (GIT). We started observations at 2024-11-25 20:56:05 UT, about 19.9 hours after the trigger. We obtained multiple images of 300s each in g', r' and i' filters. We did not detect any new source in our stacked image in the 50% containment area given by BAT (DeLaunay et al., GCN 38308).\n\nBelow is the upper limit in the stacked images:\n\n| MJD (mid)   | Filter | Exposure (s) | Limiting Magnitude (AB) |\n| ----------- | ------ | ------------ | ----------------------- |\n| 60639.88129 | r'     | 5x300        | 21.3                    |\n| 60639.89960 | g'     | 5x300        | 21.7                    |\n| 60639.91793 | i'     | 5x300        | 20.3                    |\n\nOur upper limits are consistent with reports by Chen et al., (GCN 38314); Watson et al., (GCN 38317); Swain et al., (GCN 38322).\n\nThe magnitude is calibrated against PanSTARRS DR1 (Chambers et al., 2016) and not corrected for Galactic extinction.\n\nThe GROWTH India Telescope (GIT, Kumar et al. 2022) is a 70-cm telescope with a 0.7-degree field of view, set up by the Indian Institute of Astrophysics (IIA) and the Indian Institute of Technology Bombay (IITB) with funding from DST-SERB and IUSSTF. It is located at the Indian Astronomical Observatory (Hanle), operated by IIA. We acknowledge funding by the IITB alumni batch of 1994, which partially supports the operations of the telescope. Telescope technical details are available at https://sites.google.com/view/growthindia/.",
+  "submittedHow": "web",
+  "circularId": 38325,
+  "bibcode": "2024GCN.38325....1M",
+  "format": "text/markdown",
+  "submitter": "V. Swain at IIT Bombay <vishwajeet.s@iitb.ac.in>",
+  "subject": "LIGO/VIRGO/KAGRA S241125n: GROWTH-India telescope optical observations"
+}

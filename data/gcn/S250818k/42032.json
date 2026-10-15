@@ -1,0 +1,11 @@
+{
+  "body": "G. Bruni [1], L. Piro [1], G. Gianfagna [1] and A. L. Thakur [1] report:\n\nWe carried out a third epoch of MeerKAT observations on the field of AT2025ulz (Stein et al., GCN 41414), in the localization region of the subthreshold GW event S250818k (LVK Collaboration, GCNs 41437, 41440). Observations at 3 GHz (S4 band) started on 2025-09-13, 12:07 UT (26 days post-trigger) for a total of 4 hours. \n\nGiven the previously reported discrepancies between the data reduction for this target carried out with the SARAO Science Data Processor (SDP) and other pipelines (GCN 41666), we reprocessed the three epochs using also oxkat (Heywood 2020, Astrophysics Source Code Library). While the results of the two pipelines agree for the first and third epochs, we find that the SDP pipeline image of the second epoch exhibited a flux density bias of up to 100% for field sources below ~200 μJy (S/N up to ~30-40), which led us to an incorrect conclusion about the variability of the target (GCN 41594). \n\nThe reprocessed data for the three MeerKAT epochs at 3 GHz show emission at a position consistent with the host galaxy and compatible with a constant flux of ~80+/-10 uJy, thus constraining variability due to a transient. This suggests that the radio source is currently dominated by diffuse emission, likely star formation, by the host galaxy.\n\n\nThe MeerKAT telescope is operated by the South African Radio Astronomy Observatory, which is a facility of the National Research Foundation, an agency of the Department of Science and Innovation.\n—------------------------\n[1] INAF-IAPS\n",
+  "subject": "LIGO/Virgo/KAGRA S250818k: further MeerKAT monitoring",
+  "submittedHow": "web",
+  "submitter": "Gabriele Bruni at INAF <gabriele.bruni@inaf.it>",
+  "format": "text/plain",
+  "circularId": 42032,
+  "bibcode": "2025GCN.42032....1B",
+  "createdOn": 1759253079087,
+  "eventId": "LIGO/Virgo/KAGRA S250818k"
+}

@@ -1,0 +1,11 @@
+{
+  "format": "text/plain",
+  "eventId": "LIGO/Virgo/KAGRA S250206dm",
+  "submitter": "Yuta Kawakubo at Aoyama Gakuin University <kawakubo@phys.aoyama.ac.jp>",
+  "bibcode": "2025GCN.39179....1K",
+  "body": "N. Kawai, T. Mihara, (RIKEN),\nH. Negoro, M. Nakajima, K. Takagi (Nihon U.),\nS. Sugita, M. Serino, Y. Kawakubo, H. Hiramatsu, H. Nishikawa, Y. Kondo (AGU)\nreport on behalf of the MAXI team:\n\nWe examined MAXI/GSC all-sky X-ray images (2-20 keV)\nafter compact binary merger candidate S250206dm at 2025-02-06 21:25:30.439 UTC (GCN #39175, 39178).\n\nAt the trigger time of S250206dm, the high-voltage of MAXI/GSC was off,\nand it was turned on at T0+786 sec (+13.1 min).\nThe first one-orbit (92 min) scan observation with GSC after the event covered 52%\nof the 90% credible region of the Bilby skymap from 21:38:56 to 22:48:26 UTC (T0+806 to T0+4976 sec).\n\nNo significant new source was found in the region in the one-orbit scan observation.\nA typical 1-sigma averaged upper limit obtained in one scan observation\nis 20 mCrab at 2-20 keV.\n\nIf you require information about X-ray flux by MAXI/GSC at specific coordinates,\nplease contact the submitter of this circular by email.",
+  "createdOn": 1738888016028,
+  "subject": "LIGO/Virgo/KAGRA S250206dm: Coverage and upper limits from MAXI/GSC observations",
+  "submittedHow": "web",
+  "circularId": 39179
+}

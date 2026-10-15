@@ -1,0 +1,11 @@
+{
+  "format": "text/plain",
+  "submitter": "xjh@andrew.cmu.edu",
+  "body": "Xander J. Hall (Carnegie Mellon U.), Malte Busmann (LMU), Daniel Gruen (LMU), Brendan O’Connor (Carnegie Mellon U.), and Antonella Palmese (Carnegie Mellon U.) report:\n\nWe observed the source AT 2025ulz reported by Stein et al. (GCN 41414) with the Three Channel Imager (3KK) at the Fraunhofer Telescope at Wendelstein Observatory (FTW) in the g, r, i, z, and J bands starting at 2025-08-19T20:09:46 for 22 x 180 s. We took 11 observations in the giJ configuration and 11 in the rzJ configuration. In the difference imaging with templates from the Legacy Survey, we detect AT 2025ulz at\n\ng = (22.08 +/- 0.09) AB mag,\nr = (21.83 +/- 0.06) AB mag.\n\nWe note significant reddening and fading from our previous report (GCN 41421), with the g band dropping 0.83 AB mag in 24.6 hours and r band now being brighter than g.\n\nThe magnitudes are calibrated against the PS1 catalog and not corrected for Galactic extinction.\n\nFurther analysis is underway.\n\nWe thank Michael Schmidt from the Wendelstein Observatory staff for obtaining these observations.",
+  "eventId": "LIGO/Virgo/KAGRA S250818k",
+  "createdOn": 1755653097182,
+  "subject": "LIGO/Virgo/KAGRA S250818k: FTW Fast reddening of AT 2025ulz",
+  "bibcode": "2025GCN.41433....1H",
+  "submittedHow": "web",
+  "circularId": 41433
+}

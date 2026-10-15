@@ -1,0 +1,11 @@
+{
+  "circularId": 41542,
+  "bibcode": "2025GCN.41542....1R",
+  "body": "R. Ricci, M. Yadav, E. Troja (U Rome) report on behalf of the ERC BHianca team:\n\nWe observed the optical transient AT2025ulz/ZTF25abjmnps (Stein et al. GCN 41414; Hall et al. GCN 41433; Karambelkar et al. GCN 41436; O’Connor et al. GCN 41452) within the localization of the candidate gravitational wave event S250818k (LVKC GCN 41437; GCN 41440) with the Very Large Array in S-band and C-band at the centre frequency of 3 GHz and 6 GHz respectively with a bandwidth of 2 GHz and 4 GHz on Aug 24st 2025, 5.9 days after the GW trigger. \n\nA possible radio counterpart with flux 77 +/- 16 microJy/beam at 3 GHz was claimed by Bruni et al. (GCN 41500). \nAfter reducing the data using the latest version of the CASA VLA pipeline (v6.6.1) and standard imaging procedures, we found no detection at the transient position down to a 3-sigma flux density upper limit of about 40 microJy/beam and 25 microJy/beam for 3 GHz and 6 GHz respectively. \n\nWe thank the VLA staff for promptly executing the observations.\n",
+  "createdOn": 1756131212245,
+  "format": "text/plain",
+  "submitter": "muskan.yadav@students.uniroma2.eu",
+  "submittedHow": "web",
+  "subject": "LIGO/Virgo/KAGRA S250818k: VLA upper limits on AT2025ulz",
+  "eventId": "LIGO/Virgo/KAGRA S250818k"
+}

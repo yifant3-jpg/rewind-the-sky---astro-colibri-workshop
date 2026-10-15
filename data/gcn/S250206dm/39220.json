@@ -1,0 +1,10 @@
+{
+  "createdOn": 1738974774993,
+  "eventId": "LIGO/Virgo/KAGRA S250206dm",
+  "submitter": "Vladimir Lipunov at Moscow State U/Krylov Obs <lipunov@xray.sai.msu.ru>",
+  "submittedHow": "email",
+  "bibcode": "2025GCN.39220....1L",
+  "circularId": 39220,
+  "body": "\nV. Lipunov, I. Panchenko, G. Lipunova  (Lomonosow Moscow State University)\n\nIn connection with the close in time (less than 1 minute) discovery of the source FRB 20250206A (GCN 39216) following the registration of the gravitational-wave signal LIGO/Virgo/KAGRA S250206dm (GCN 39175; likely either BH-NS or NS-NS) we note that this could be the first observation of the \"Time Machine\" effect (Lipunova, Lipunov & Panchenko, New Astronomy, Volume 2, Issue 6, 1997, 555-558;) of the FRB radio precursor phenomenon predicted earlier (Lipunov & Panchenko, 1996, A&A, 312,937L).\n\nAs the authors of CHIME (GCN 39216) note, the probability of a random coincidence of the two events is quite high. However, we are confident that such an effect will inevitably be detected by means of radio and gravitational wave astronomy.\n\nWe also note that the absence of a host galaxy is quite possible due to the kick velocity effect of the two supernova explosions in this binary system.\n\n",
+  "subject": "LIGO/Virgo/KAGRA S250206dm: FRB 20250206A  & \"Time Machine\" Effect."
+}

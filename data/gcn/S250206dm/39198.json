@@ -1,0 +1,11 @@
+{
+  "bibcode": "2025GCN.39198....1B",
+  "body": "Rosa L. Becerra (U Rome), Alan M. Watson (UNAM), William H. Lee (UNAM), Camila Angulo Valdez (UNAM), Eleonora Troja (U Rome), Nat Butler (ASU), Simone Dichiara (Penn State University), Tsvetelina Dimitrova (ASU), Alexander Kutyrev (GSFC/UMD), Océlotl López (UNAM), and Margarita Pereyra (UNAM) report:\n\nAs part of the optical follow-up campaign for LIGO/Virgo/KAGRA S250206dm (LVKC, GCN 39175), the DDOTI/OAN wide-field imager at the Observatorio Astronómico Nacional on Sierra San Pedro Mártir (http://ddoti.astroscu.unam.mx) observed the position RA, Dec = 149.16, -17.94, reported by the IceCube Collaboration as a track-like event spatially and temporally coincident with the gravitational-wave candidate S250206dm (IceCube Collaboration, GCN 39176).\n\nDDOTI covered the complete error region reported for this candidate (angular uncertainty of\n0.43 deg, IceCube Collaboration, GCN 39176) beginning at 2025-02-07 07:07 UTC (T+9.7 hours after the event). A total exposure of 18 minutes was obtained in the w filter, reaching a 10-sigma limiting magnitude of w = 19.4.  \n\nComparing our observations with the USNO-B1 and PanSTARRS PS1 DR2 catalogs, we detect no uncatalogued sources within the observed field to our 10-sigma limit.\n\nObservations related to S250206dm are ongoing.\n\nWe thank the staff of the Observatorio Astronómico Nacional in San Pedro\nMártir.\n",
+  "circularId": 39198,
+  "submittedHow": "web",
+  "createdOn": 1738924659853,
+  "format": "text/plain",
+  "eventId": "LIGO/Virgo/KAGRA S250206dm",
+  "subject": "LIGO/Virgo/KAGRA S250206dm: DDOTI Upper Limit for the Neutrino IceCube Candidate",
+  "submitter": "Rosa L. Becerra at Tor Vergata, Roma <rosa.becerra@roma2.infn.it>"
+}

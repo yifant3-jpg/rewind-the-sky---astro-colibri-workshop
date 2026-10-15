@@ -1,0 +1,11 @@
+{
+  "body": "Geoffrey Mo (MIT), Robert Stein (JSI), Mansi Kasliwal (Caltech), Viraj Karambelkar (Caltech), Danielle Frostig (CfA), Nathan Lourie (MIT), and Robert Simcoe (MIT) report:\n\nWe observed AT2025ulz (Stein et al., GCN 41414), a possible counterpart to the LVK sub-threshold event S250818k (LVK, GCN 41437, 41440), with the 1.2 sq. degree near-IR WINTER camera on the Palomar 1-m telescope (Lourie et al. 2021, Frostig et al. 2024).\n\nOur observations were conducted in J-band beginning at 2025-08-19 03:09:09 UTC, approximately 26 hours after the merger. Our observations consisted of 30 individual 120s dithers. The images were processed using the WINTER data reduction pipeline (https://github.com/winter-telescope/mirar, https://doi.org/10.5281/zenodo.13352565) using images from the UKIRT Hemisphere survey (Dye et al. 2018) as references for image subtraction.\n\nWe do not detect any source at the position of AT2025ulz in our difference image. We place a J-band upper limit of m > 19.3 AB mag.\n\nWINTER (Wide-field INfrared Transient ExploreR) is a partnership between MIT and Caltech, housed at Palomar Observatory, and funded by NSF MRI, NSF AAG, the David and Lucile Packard Foundation, and the MIT Kavli Institute for Astrophysics and Space Research.",
+  "circularId": 41456,
+  "submitter": "Geoffrey Mo at MIT <gmo@mit.edu>",
+  "subject": "LIGO/Virgo/KAGRA S250818k: WINTER J-band observations of AT 2025ulz",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41456....1M",
+  "createdOn": 1755715275198,
+  "eventId": "LIGO/Virgo/KAGRA S250818k",
+  "format": "text/plain"
+}

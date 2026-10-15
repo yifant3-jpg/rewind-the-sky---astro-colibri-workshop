@@ -1,0 +1,11 @@
+{
+  "submittedHow": "web",
+  "subject": "LIGO/Virgo/KAGRA S250818k: CFH/MegaCam follow-up observation for AT2025ulz",
+  "createdOn": 1756019648566,
+  "eventId": "LIGO/Virgo/KAGRA S250818k",
+  "body": "S. Antier (OCA/IJCLAB), M. Pillas (Uliege), D. Akl (NYUAD), S. Karpov (FZU), M. Coughlin (UMN), P. Hello (IJCLAB), A. Jacquesson (IJCLAB) report on behalf on ZTF collaboration:\n\nWe observed the optical transient AT2025ulz/ZTF25abjmnps (Stein et al., GCN 41414) over several nights, which has been reported by Stein et al., GCN 41414; Busmann et al., GCN 41421; Hall et al., GCN 41433; Karambelkar et al., GCN 41436; O’Connor et al., GCN 41452; Gillanders et al., GCN 41454; Liu et al., GCN 41461; Banerjee et al., GCN 41476; Perley et al., GCN 41480; D'Avanzo et al., GCN 41489; Malesani et al., GCN 41492; Smartt et al., GCN 41493; Bruni et al., GCN 41500; Santos et al., GCN 41501; Becerra et al., GCN 41502; An et al., GCN 41503, Angulo et al., GCN 41518 as a possible source to the Gravitational Wave Event S250818k (LVK collaboration GCN 41437; 41440). The observations were carried out using MegaCam on the CFHT.\n\nWe report here our preliminary measurement in r-band taken around 2025-08-21 06:50 UTC by co-adding several images and analyzed with STDPipe (Karpov 2025) with photometric calibration against Pan-STARRS. The quality of the sky during that night was not ideal.\n\nr = 22.85 +/- 0.15 (AB)\n\nDifferential image analysis against archival CFH data has been performed. \n\nFurther observations are planned.\n\nWe would like to thank the CFHT staff enabling these timely observations, in particular Nadine Manset and Heather Flewelling.\n",
+  "circularId": 41519,
+  "submitter": "Sarah Antier at OCA <sarah.antier@oca.eu>",
+  "format": "text/plain",
+  "bibcode": "2025GCN.41519....1A"
+}

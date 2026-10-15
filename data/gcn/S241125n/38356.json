@@ -1,0 +1,11 @@
+{
+  "circularId": 38356,
+  "subject": "LIGO/Virgo/KAGRA S241125n: Update on Coincidence False Alarm Method ",
+  "submittedHow": "web",
+  "submitter": "Brandon Piotrzkowski <brandon.piotrzkowski@ligo.org>",
+  "eventId": "LIGO/Virgo/KAGRA S241125n",
+  "body": "The LIGO Scientific Collaboration, the Virgo Collaboration, and the KAGRA Collaboration along with the Swift/BAT-GUANO Collaboration report:\n\nA search performed by the RAVEN pipeline [1] (reported in GCN Circular 38309) found a spatio-temporal coincidence between S241125n and a sub-threshold Swift/BAT trigger with ID 754189311 (DeLaunay et al., GCN Circular 38308).\n\nThe estimated joint false alarm rate (FAR) for the spatial and temporal coincidence was reported to be 1.8e-11 Hz, or about one in 1e3 years (GCN 38315). See https://lscsoft.docs.ligo.org/raven/joint_far.html for a description of the Targeted Search joint FAR method. \n\nThe difference between the joint FAR estimate in GCN 38315 and GCN 38308 can be accounted for by the updated gravitational-wave skymap, the use of the highest resolution information in the sky map combination, and by the fact that the GCN 38308 method included a correction for trials arising from multiple GW pipelines.\n\nThe Targeted Search joint FAR presented above is dominated by the low FAR of the confident GW signal, which is much lower than the detected rate of BBH mergers.  In this case of a confident GW signal, using a version of the Untargeted joint FAR method (see link above) is likely to more appropriately describe the background association rate. Using a conservative accounting of the BBH detection rate (1 per 3 days) along with the Untargeted joint FAR method increases the joint FAR to 1 per 6 years.\n\n [1] Urban, A. L. 2016, Ph.D. Thesis https://dc.uwm.edu/etd/1218 and Piotrzkowski, B. J. 2022, Ph.D. Thesis https://dc.uwm.edu/etd/3060",
+  "format": "text/plain",
+  "createdOn": 1732760806564,
+  "bibcode": "2024GCN.38356....1L"
+}

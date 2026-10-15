@@ -1,0 +1,14 @@
+{
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Alan Watson at UNAM <alan@astro.unam.mx>",
+  "bibcode": "2025GCN.41518....1A",
+  "body": "Camila Angulo (UNAM), Alan M. Watson (UNAM), Damien Dornic (CPPM), Stéphane Basa (UAR Pytheas), William H. Lee (UNAM), Fredd Sánchez Álvarez (UNAM), Dalya Akl (NYUAD), Sarah Antier (OCA), Jean-Luc Atteia (IRAP), Rosa L. Becerra (U Roma), Nathaniel R. Butler (ASU) , Jean-Grégoire Ducoin (CPPM), Francis Fortin (IRAP), Leonardo García García (UNAM), Ramandeep Gill (UNAM), Noémie Globus (UNAM), Kin Ocelotl López (UNAM), Diego López-Cámara (UNAM), Francesco Magnani (CPPM), Enrique Moreno Méndez (UNAM), Margarita Pereyra (UNAM), Ny Avo Rakotondrainibe (LAM), Benjamin Schneider (LAM), and Antonio de Ugarte Postigo (LAM) report:\n\nWe imaged the field of the AT2025ulz (Stein et al., GCN Circ. 41414) using the DDRAGO wide-field imager on the COLIBRÍ telescope. We observed at two epochs, from 2025-08-22 03:19 to 05:29 UTC (4.13 days after the trigger) and from 2025-08-24 03:29 to 05:41 UTC (6.14 days after the trigger). At both epochs we obtained 96 minutes of exposure in the i filter.\n\nThe data were reduced and coadded with custom software and then analyzed in STDWeb (Karpov 2021). The photometry was calibrated using nearby stars from the PanSTARRS DR1 catalog, is in the AB system, and is not corrected for Galactic extinction.\n\nAfter subtracting a Pan-STARRS DR2 template image from our first epoch image (4.13 days after the trigger), we detect a source at the reported position of AT2025ulz with\n\ni = 23.1 +/- 0.25\n\nAfter subtracting a Pan-STARRS DR2 template image from our second epoch image (6.14 days after the trigger), we detect a source at the reported position of AT2025ulz with\n\ni = 22.0 +/- 0.1\n\nSubtracting the first epoch image from the second epoch image, we find a brightening that corresponds to\n\nDelta i = 22.7 +/- 0.2\n\nWe caution that these analyses are preliminary, especially the photometry after subtracting the shallower PS template images. Nevertheless, our results would appear to confirm the rebrightening reported by Freeburn et al. (GCN Circ. 41507).\n\nFurther observations are planned.\n\nWe thank the staff of the Observatorio Astronómico Nacional on the Sierra de San Pedro Mártir and the COLIBRÍ and DDRAGO engineering teams.\n\nCOLIBRÍ is an astronomical observatory developed and operated jointly by France (AMU, CNES and CNRS) and Mexico (UNAM and SECIHTI). It is located at the Observatorio Astronómico Nacional on the Sierra de San Pedro Mártir, Baja California, Mexico.\n",
+  "createdOn": 1756016468361,
+  "subject": "LIGO/Virgo/KAGRA S250818k: COLIBRÍ confirmation of rebrightening of AT2025ulz",
+  "submitter": "Alan Watson at UNAM <alan@astro.unam.mx>",
+  "version": 2,
+  "eventId": "LIGO/Virgo/KAGRA S250818k",
+  "submittedHow": "web",
+  "format": "text/plain",
+  "circularId": 41518,
+  "editedOn": 1756128613982
+}

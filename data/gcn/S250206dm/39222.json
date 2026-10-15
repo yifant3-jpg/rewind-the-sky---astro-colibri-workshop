@@ -1,0 +1,11 @@
+{
+  "bibcode": "2025GCN.39222....1K",
+  "submitter": "Harsh Kumar at Center for Astrophysics  | Harvard & Smithsonian  <harshkosli13@gmail.com>",
+  "format": "text/plain",
+  "eventId": "LIGO/Virgo/KAGRA S250206dm",
+  "subject": "LIGO/Virgo/KAGRA S250206dm: MMT galaxy targeted observations",
+  "circularId": 39222,
+  "body": "H. Kumar, E. Berger, A. Villar, D. Hiramatsu, P. K. Blanchard, K. D. Soto, S. K. Yadavalli, M. Hussaini, A. Gagliano, S. Gomez and C. Ransome (Harvard) report:\n\nWe obtained imaging with Binospec on the 6.5m MMT to search for an optical counterpart to the gravitational wave event S250206dm (GCN #39175, #39184). A series of 120-second r-band images were obtained starting about 5 hours after the GW trigger, targeting Glade+ galaxies (G. Dálya et al. 2021) coincident with the 3D localization (bayestar.fits.gz,1) of the event.\n\nWe do not detect any new transients near targeted galaxies within the localization volume compared to PS1/3pi images down to ~21.7 mag. A list of observed galaxies is listed below:\n \n--------------------------------------\nGLADE ID | RA (J2000) | Dec (J2000)| \n--------------------------------------\n03WFD  | 34.07875  | 51.68233 |\n01JP0  | 41.07416  | 53.40766 |\n01HGY  | 37.20916  | 52.92669 |\n0650c  | 36.18916  | 52.67455 |\n048BX  | 34.57416  | 51.97930 |\n06IPX  | 34.02416  | 51.86102 |\n001TW  | 41.78666  | 53.72905 |\n1XD7Y  | 15.89166  | 44.00536 |\n065O8  | 36.20291  | 52.59722 |\n065O6  | 36.29791  | 52.25575 |\n0I29U  | 41.80708  | 53.73738 |\n00BDI  | 42.80416  | 54.14144 |\n01JNX  | 36.19875  | 51.99944 |\n00PCL  | 43.07583  | 53.98008 |\n--------------------------------------\n\nWe thank Ryan Howie, Ben Weiner, and MMT staff for the rapid execution of these observations.\n",
+  "createdOn": 1738979130484,
+  "submittedHow": "web"
+}

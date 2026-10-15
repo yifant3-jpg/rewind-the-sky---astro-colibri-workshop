@@ -1,0 +1,12 @@
+.env
+data/raw/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+de440s.bsp
+tiling_out/
+*.bsp
+papers/
+data/gracedb/**/*.fits
+.pytest_cache/

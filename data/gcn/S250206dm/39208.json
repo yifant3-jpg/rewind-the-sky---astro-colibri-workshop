@@ -1,0 +1,11 @@
+{
+  "createdOn": 1738947442009,
+  "circularId": 39208,
+  "format": "text/plain",
+  "bibcode": "2025GCN.39208....1B",
+  "submittedHow": "web",
+  "subject": "LIGO/Virgo/KAGRA S250206dm: DDOTI Upper Limits",
+  "eventId": "LIGO/Virgo/KAGRA S250206dm",
+  "body": "LIGO/Virgo/KAGRA S250206dm: DDOTI Upper Limits\n\nRosa L. Becerra (U Rome), Simone Dichiara (Penn State University), Alan M. Watson (UNAM), William H. Lee (UNAM), Camila Angulo Valdez (UNAM), Eleonora Troja (U Rome), Nat Butler (ASU), Tsvetelina Dimitrova (ASU), Alexander Kutyrev (GSFC/UMD), Océlotl López (UNAM), and Margarita Pereyra (UNAM) report:\n\nWe observed LIGO/Virgo/KAGRA S250206dm candidate (LVKC, GCN 39175) with the DDOTI/OAN wide-field imager at the Observatorio Astronómico Nacional on Sierra San Pedro Mártir (http://ddoti.astroscu.unam.mx) on the night of 2025-02-07 UTC.\n\nWe tiled the LVK localization with 5 pointings covering about 127 square degrees and including about 14% of the probability in the most recent Bilby map. \n\nWe observed from 2025-02-07 02:18 UTC to 2025-02-07 12:22 UTC (from T+4.9 to\nT+15.0 hours after the event) obtaining a total of 2.65 hours of exposure across the fields in the w filter, with 10-sigma limiting AB magnitudes between w~18-19.5.\n\nComparing our observations to the USNO-B1 and PanSTARRS PS1 DR2 catalogs, we\nidentified the increase of brightness in two sources within the 95% probability region\nat positions:\n\nSource 1:      RA, Dec=   09:59:01.76    -16:33:22.6     with w=19.1+/-0.1\nSource 2:      RA, Dec=   09:59:24.44    -16:29:37.4     with w=19.3+/-0.1\n\nThese positions are related to previous catalogued sources in the Legacy Survey DR10 (Dey et al. 2019). Source 1 has a reported magnitude r=21.8 (with a photo-z=0.45) whereas source 2 of r=22 (with a photo-z=0.66).\n\nFurther observations are planned.\n\nWe thank the staff of the Observatorio Astronómico Nacional in San Pedro\nMártir.\n",
+  "submitter": "Rosa L. Becerra at Tor Vergata, Roma <rosa.becerra@roma2.infn.it>"
+}

@@ -1,0 +1,10 @@
+{
+  "bibcode": "2025GCN.39193....1W",
+  "eventId": "LIGO/Virgo/KAGRA S250206dm",
+  "subject": "LIGO/Virgo/KAGRA S250206dm: COLIBRÍ/DDRAGO Observations of the AT 2025azn Optical Candidate",
+  "submitter": "Alan Watson at UNAM <alan@astro.unam.mx>",
+  "circularId": 39193,
+  "submittedHow": "email",
+  "body": "Alan M. Watson (UNAM), Jean-Grégoire Ducoin (CPPM), Sarah Antier\n(OCA), Stéphane Basa (UAR Pytheas), Jean-Luc Atteia (IRAP), William H.\nLee (UNAM), Dalya Akl (AUS), Camila Angulo (UNAM), Rosa L. Becerra\n(Università degli Studi di Roma Tor Vergata), Nathaniel R. Butler\n(ASU), Damien Dornic (CPPM), Francis Fortin (IRAP), Noémie Globus\n(UNAM), Francesco Magnani (CPPM), Margarita Pereyra (UNAM), and\nBenjamin Schneider (LAM) report:\n\nWe imaged the field of the AT 2025azn candidate reported by the\nSAGUARO team (GCN Circ. 39191) as a possible optical counterpart of\nthe GW transient S250206dm (GCN Circ. 29175, GCN Circ. 39184) with the\nDDRAGO wide-field imager on the COLIBRÍ telescope at the Observatorio\nAstronómico Nacional on the Sierra de San Pedro Mártir in Mexico.\n\nWe observed from 2025-02-07 06:39 to 07:27 UTC (9.24 to 10.04 hours\nafter the GW transient), with a midpoint of 9.64 hours after the\nevent, and obtained 840 seconds of exposure in the g filter and 840\nseconds of exposure in the r filter in good weather conditions, albeit\nat airmass 2.1 to 2.8. The data were reduced and stacked using custom\nsoftware and then calibrated against the PS1 catalog and analysed\nusing STDPipe (Karpov 2021). The FWHM in both stacks is about 2.0\narcsec.\n\nAt the position of AT 2025azn, and after template subtraction using\nPan-STARRS DR2 reference images, we do not detect any source at a 3\nsigma limiting magnitudes of:\n\ng > 21.9\n\nr > 21.7\n\nOur magnitude limits are not corrected for Galactic extinction.\n\nThese limits are significantly fainter than the detection reported by\nthe SAGUARO team from observation taken about 2 hours earlier.\n\nWe warmly thank the COLIBRÍ and DDRAGO engineering teams and the staff\nof the Observatorio Astronómico Nacional on the Sierra de San Pedro\nMártir.\n",
+  "createdOn": 1738917183266
+}

@@ -1,0 +1,11 @@
+{
+  "body": "Malte Busmann (LMU), Xander J. Hall (Carnegie Mellon U.), Daniel Gruen (LMU), Brendan O’Connor (Carnegie Mellon U.), and Antonella Palmese (Carnegie Mellon U.) report:\n\nWe observed the source AT 2025ulz reported by Stein et al. (GCN 41414) with the Three Channel Imager (3KK) at the Fraunhofer Telescope at Wendelstein Observatory (FTW) in the g, r, i, z, and J bands starting at 2025-08-18T19:35:11 for 40 x 180 s. We took 30 observations in the giJ configuration and 10 in the rzJ configuration. In the difference imaging with templates from the Legacy Survey, we detect AT 2025ulz at\n\ng = (21.25 +/- 0.03) AB mag,\nr = (21.43 +/- 0.06) AB mag.\n\nThe magnitudes are calibrated against the PS1 catalog and not corrected for Galactic extinction.\n\nWe thank Michael Schmidt from the Wendelstein Observatory staff for obtaining these observations.",
+  "eventId": "LIGO/Virgo/KAGRA S250818k",
+  "bibcode": "2025GCN.41421....1B",
+  "submittedHow": "web",
+  "submitter": "Malte Busmann at Ludwig-Maximilians-Universität München <m.busmann@physik.lmu.de>",
+  "subject": "LIGO/Virgo/KAGRA S250818k: FTW optical and NIR observations of AT 2025ulz",
+  "format": "text/plain",
+  "circularId": 41421,
+  "createdOn": 1755565205357
+}

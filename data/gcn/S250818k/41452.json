@@ -1,0 +1,11 @@
+{
+  "body": "B. O’Connor (CMU), J. Freeburn (UNC), X. J. Hall (CMU), Malte Busmann (LMU), I. Andreoni (UNC), A. Palmese (CMU), D. Gruen (LMU), L. Hu (CMU), T. Cabrera (CMU), K. Kunnumkai (CMU), A. Amsellem (CMU) report on behalf of a larger collaboration: \n\nUsing Gemini GMOS-N, we observed the source AT 2025ulz/ZTF25abjmnps reported by Stein et al. (GCN 41414) discovered during ZTF follow-up of the low-significance gravitational wave event S250818k (GCN 41437, 41440; https://gracedb.ligo.org/superevents/S250818k), which is a candidate binary neutron star merger. \n\nFollowing the discovery of rapid fading and reddening of the source with the Fraunhofer Telescope at Wendelstein Observatory (FTW; see Busmann et al. GCN 41421, Hall et al. GCN 41433), we carried out observations in the grizY filters with GMOS-N under photometric observing conditions starting at 2025-08-20 05:29:56 UT. This corresponds to 2.17 days after the gravitational wave detection (GCN 41437). \n\nA visual inspection reveals that the transient is significantly detected on top of the host galaxy. The source is clearly off-nuclear, but lies on top of the galaxy’s disk. We performed difference imaging with respect to Legacy Survey templates that further reveal the source. The brightness of the transient is g~23.0 AB mag and r~22.6 AB mag. The photometry is not correct for Galactic extinction. \n\nOur data reveals continued rapid fading and reddening of the transient in the 9.4 hours following the FTW report (Hall et al. GCN 41433). This would imply a steepening of the fade rate in g-band. We caution that the galaxy appears over subtracted in our difference imaging, which may affect the preliminary photometry. Additional analysis is underway. \n\nFurther observations are planned and additional follow-up is encouraged.\n\nWe thank the staff of the Gemini Observatory, in particular Jen Andrews, Brian Lemaux, and Jen Miller, for their excellent support in rapidly scheduling these observations. \n",
+  "createdOn": 1755710894492,
+  "submittedHow": "web",
+  "circularId": 41452,
+  "bibcode": "2025GCN.41452....1O",
+  "submitter": "Brendan O'Connor at Carnegie Mellon University <boconno2@andrew.cmu.edu>",
+  "format": "text/plain",
+  "subject": "LIGO/Virgo/KAGRA S250818k: Multi-band Gemini GMOS Detections",
+  "eventId": "LIGO/Virgo/KAGRA S250818k"
+}

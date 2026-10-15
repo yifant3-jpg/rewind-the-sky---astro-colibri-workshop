@@ -1,0 +1,10 @@
+{
+  "bibcode": "2025GCN.41489....1D",
+  "subject": "LIGO/Virgo/KAGRA S250818k: GRAWITA TNG NIR observations of AT2025ulz",
+  "createdOn": 1755851561458,
+  "circularId": 41489,
+  "body": "P. D'Avanzo, (INAF-OAB), M.T. Botticella (INAF - OACn),  E. Cappellaro (INAF-OAPd), L. Izzo (INAF - OACn), A. Rossi (INAF-OAS), V. D’Elia (ASI-SSDC), S. Piranomonte (INAF-OAR), G. Greco (INFN), M.G. Bernardini (INAF-OAB), S. Ronchini (GSSI), B. Patricelli (Univ. Pisa), O. S. Salafia, G. Ghirlanda (INAF-OAB), N. Elias-Rosa (INAF-OAPd), Fabio Ragosta (Università degli studi di Napoli “Federico II”), R. Salvaterra (INAF-IASF Milano), E. Brocato (INAF-OAR), V. Lorenzi, A. Garcia De Gurtubai Escudero (INAF-TNG), on behalf of GRAWITA report:\n\nWe observed the optical transient AT2025ulz (Stein et al., GCN Circ. 41414; Busmann et al., GCN Circ. 41421; Hall et al., GCN Circ. 41433; Karambelkar et al., GCN Circ. 41436; O’Connor et al., GCN Circ. 41452; Gillanders et al., GCN Circ. 41454; Liu et al., GCN Circ. 41461; Perley et al., GCN Circ. 41480) possibly connected to the GW candidate event S280818k (LVK collaboration, GCN Circ. 41437 & GCN Circ. 41440) with the Italian 3.6m TNG telescope, located in Canary Islands (Spain), equipped with the near-infrared camera NICS in imaging mode. \nA series of images were obtained with the J filter starting on 2025-08-20T20:27:00 UT (i.e. 2.80 days post the GW T0), with the H filter starting on 2025-08-20T21:42:37 UT (i.e. 2.85 days post the GW T0)  and with the K filter starting on 2025-08-20T23:00:15 UT (i.e. 2.90 days post the GW T0). The exposure time for each filter was 50 minutes.\n\nThe transient host galaxy is clearly detected in all our images, while no source is detected at the position of AT2025ulz down to the following 3sigma upper limits (AB magnitudes, calibrated against the 2MASS catalogue and obtained after subtracting a 2D galaxy model obtained with galfit, Peng et al.,  2010, AJ, 139, 2097):\n\nJ > 21.7 mag\nH > 21.3 mag\nK > 20.5 mag\n\n",
+  "submitter": "Paolo D'Avanzo at INAF - OAB <paolo.davanzo@inaf.it>",
+  "submittedHow": "email",
+  "eventId": "LIGO/Virgo/KAGRA S250818k"
+}

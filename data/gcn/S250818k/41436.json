@@ -1,0 +1,11 @@
+{
+  "circularId": 41436,
+  "createdOn": 1755667432531,
+  "subject": "LIGO/Virgo/KAGRA S250818k: Keck I LRIS spectroscopy of ZTF25abjmnps (AT2025ulz)",
+  "format": "text/plain",
+  "body": "Viraj Karambelkar (Caltech), Mansi M. Kasliwal (Caltech) and Xander J.  Hall (CMU) report on behalf of the larger ZTF and GROWTH collaborations\n\nWe observed ZTF25abjmnps (AT2025ulz; Stein et al. GCN 41414) starting UTC 2025-08-19 06:42 with the LRIS spectrograph on Keck I. We derive a redshift of 0.0848 based on host galaxy emission lines - this is consistent with the 3D GW localization for S250818k. Subtracting host galaxy light, we see a blue continuum excess from the transient, and no tell-tale supernova-like features. The data in-hand thus far appears consistent with a kilonova. However, continued monitoring (such as Busmann et al. GCN 41421, Hall et al. GCN 41433) is encouraged to rule out any future re-brightening from a faint and fast supernova Type IIb (e.g., Barna et al. 2025, arXiv:2506.15900). Panchromatic follow-up is ongoing and encouraged.\n",
+  "eventId": "LIGO/Virgo/KAGRA S250818k",
+  "submitter": "Mansi Kasliwal at Caltech <mansikasliwal@gmail.com>",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41436....1K"
+}

@@ -1,0 +1,11 @@
+{
+  "eventId": "LIGO/Virgo/KAGRA S250818k",
+  "subject": "LIGO/Virgo/Kagra S250818k: STEP/T80N upper limits on 2025ulz",
+  "body": "A. Santos (CBPF), C. R. Bom (CBPF), C. D. Kilpatrick (Northwestern), L. Santana-Silva (CBPF), P. Darc (CBPF), Gabriel Teixeira (CBPF), C. Mendes de Oliveira (IAG-USP) report on behalf of the STEP collaboration\n\nWe observed the optical transient AT2025ulz (Stein et al., GCN 41414; Busmann et al., GCN 41421; Hall et al., GCN 41433; Karambelkar et al., GCN 41436; O’Connor et al., GCN 41452; Gillanders et al., GCN 41454; Liu et al., GCN 41461; Banerjee et al., GCN 41476; Perley et al., GCN 41480; P. D'Avanzo et al., GCN 41489; Malesani et al., GCN 41492; Smartt et al., GCN 41493), possibly associated with the GW superevent S250818k (LVK Collaboration, GCN 41437, GCN 41440), using the T80N 0.8-m robotic telescope using the 1.4 x 1.4 FoV T80N-Cam imager. \n\nThe observations started on Aug 21, 21:46 UT (~3.85 days after trigger). We obtained 600s (2x300s)and 1200s (4x300s) stacked exposures in r and i bands respectively, with the T80-Cam centered at the position of the reported transient. Subtracting Pan-SSTARRS templates available at MAST archive using photpipe (Rest et al. 2005), we do not detect any sources in our difference images and derive 3-sigma limiting magnitudes of r > 22.9 and i > 22.8 mag for the transient.\n\nWe thank the OAJ Data Processing and Archiving Department (DPAD) for reducing and calibrating the OAJ data used in this work, as well as the distribution of the data products through a dedicated web portal.",
+  "bibcode": "2025GCN.41501....1S",
+  "submitter": "André Santos at Centro Brasileiro de Pesquisas Físicas (CBPF) <andsouzasanttos@gmail.com>",
+  "submittedHow": "web",
+  "createdOn": 1755882778315,
+  "circularId": 41501,
+  "format": "text/plain"
+}

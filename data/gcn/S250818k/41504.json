@@ -1,0 +1,14 @@
+{
+  "circularId": 41504,
+  "format": "text/plain",
+  "createdOn": 1755905971284,
+  "bibcode": "2025GCN.41504....1P",
+  "submittedHow": "web",
+  "body": "N. Passaleva  (U Rome),  J. Durbak (UMD), O. Guiffreda (UMD), E. Troja (U Rome), R.Hamada (Osaka U), A. S. Kutyrev (NASA/GSFC), D. Suzuki (Osaka U), T. Sumi (Osaka U), A. Idei (Osaka U), D. Buckley (SAAO), S. B. Cenko (NASA/GSFC)\n\nWe observed the optical transient AT2025ulz/ZTF25abjmnps (Stein et al. GCN 41414; Hall et al. GCN 41433; Karambelkar et al. GCN 41436; O'Connor et al. GCN 41452) possibly associated to the GW candidate S250818k (LVKC GCN 41437) in H filter and in J filter with PRIME ~87.62 hours and ~111.62 hours after the GW trigger.\n\nUsing  nearby stars from the Two Micron All Sky Survey (2MASS; Skrutskie et al. 2006) for calibration we estimate a 3-sigma limiting magnitude of H>20 AB for the image.\nWithin the transient's host galaxy we see no obvious point source, although template subtraction is required to place a meaningful upper limit to its brightness.\n\nPRIME is a 1.8m telescope with 1.56 square degree FOV (0.5 arcsec/pixel) located in Sutherland, South Africa at the South African Astronomical Observatory (SAAO) (Kutyrev et al. 2023, Yama et al. 2023, Durbak et al. 2024).\n\nWe thank the Osaka University observers at PRIME and the staff at SAAO for their support with these observations.",
+  "subject": "LIGO/Virgo/KAGRA S250818k: PRIME nIR observations of AT2025ulz",
+  "editedOn": 1756128601702,
+  "version": 2,
+  "eventId": "LIGO/Virgo/KAGRA S250818k",
+  "submitter": "N. Passaleva at Sapienza University of Rome <niccolo.passaleva@uniroma1.it>",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of N. Passaleva at Sapienza University of Rome <niccolo.passaleva@uniroma1.it>"
+}

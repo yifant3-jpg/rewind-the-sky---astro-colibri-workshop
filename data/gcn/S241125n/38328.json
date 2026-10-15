@@ -1,0 +1,11 @@
+{
+  "circularId": 38328,
+  "bibcode": "2024GCN.38328....1J",
+  "format": "text/plain",
+  "body": "S.Q. Jiang, X. Liu, S.Y. Fu, J. An, Z.P. Zhu, D. Xu (NAOC) report on behalf of a large collaboration:\n\nWe observed the field of the Swift/BAT-GUANO candidate counterpart (DeLaunay et al., GCN 38308) of the LIGO/Virgo/KAGRA gravitational wave event S241125n (LIGO/Virgo/KAGRA, GCN 38305; GCN 38309; GCN 38312; GCN 38313) using the GOT-0.5m telescope located at Gaoyazi, Xinjiang, China. Observations started at 18:49:17 UT on 2024-11-25, i.e., 17.796 hr after the S241125n trigger, and we obtained 32 x 180 s frames in the Sloan r filter.\n\nNo new optical source is detected in our stacked image within the Swift/BAT-GUANO 5 arcmin 50% containment area via cross-match with the PanSTARRS catalog, down to the 5-sigma limiting magnitude of r > 20.6, calibrated with nearby PanSTARRS stars and not corrected for Galactic extinction.\n\nWe acknowledge the excellent support from L.F. Huo and M.M. Yang for enabling these observations.",
+  "submittedHow": "web",
+  "submitter": "Dong Xu at NAOC/CAS <dxu@nao.cas.cn>",
+  "createdOn": 1732638170941,
+  "eventId": "LIGO/Virgo/KAGRA S241125n",
+  "subject": "LIGO/Virgo/KAGRA S241125n: Gaoyazi/GOT optical observations"
+}

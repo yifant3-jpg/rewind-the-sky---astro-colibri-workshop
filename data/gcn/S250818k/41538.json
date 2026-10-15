@@ -1,0 +1,11 @@
+{
+  "submittedHow": "web",
+  "circularId": 41538,
+  "createdOn": 1756116294211,
+  "bibcode": "2025GCN.41538....1K",
+  "eventId": "LIGO/Virgo/KAGRA S250818k",
+  "format": "text/plain",
+  "submitter": "Mansi Kasliwal at Caltech <mansikasliwal@gmail.com>",
+  "subject": "LIGO/Virgo/KAGRA S250818k: Continued Keck I LRIS spectroscopy of ZTF25abjmnps (AT2025ulz)",
+  "body": "Mansi M. Kasliwal (Caltech), Viraj Karambelkar (Caltech), Christoffer Fremling (Caltech), Tomas Ahumada (Caltech), Xander J. Hall (CMU), Daniel A. Perley (LJMU), Shreya Anand (Stanford), Chang Liu (Northwestern), Kaustav Das (Caltech), Varun Bhalerao (IIT-B), Vishwajeet Swain (IIT-B), Aditya Saikia (IIT-B)\n\nreport on behalf of a larger ZTF and GROWTH collaboration\n\nWe continue to observe ZTF25abjmnps (AT2025ulz; Stein et al. GCN 41414) with the LRIS spectrograph on Keck I. Our latest epoch starts at UTC 2025-08-25 06:50. We reduce the data with lpipe (Perley et al. 2019) and subtract a spectrum at an earlier epoch to understand the evolution (Karambelkar et al. GCN 41436).\n\nAs reported by Banerjee et al. GCN 41532, we also see a feature with an absorption minimum at 6720A. If this is Halpha, this would imply a velocity of 17000 km/s at z=0.0848 (we measure a higher velocity than what was reported in Banerjee et al. GCN 41532). \n\nHowever, we posit the classification of this transient as a supernova or a kilonova currently remains ambiguous. If it is a supernova, it is an unusual supernova for at least four reasons: (i) There is no robust (rlap>5) spectral match in the SNID library, (ii) No supernova light curve in the ZTF supernova library matches especially the blue-to-red color evolution at this early phase (e.g. Busmann et al. GCN 41535), (iii) The feature at 6720A is not smooth in shape and has additional structure, (iv) There appear to be other weak, broad undulations in the spectra. If it is a kilonova, all photometric data in-hand continue to be consistent with this hypothesis, however, additional theoretical modeling may be needed to fully explain the spectra.    \n\nLooking ahead, we encourage continued follow-up of the panchromatic light curve, including the radio and X-ray bands, to unambiguously classify this source.    \n"
+}

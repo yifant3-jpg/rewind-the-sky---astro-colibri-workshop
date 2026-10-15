@@ -1,0 +1,11 @@
+{
+  "bibcode": "2025GCN.41502....1B",
+  "subject": "LIGO/Virgo/KAGRA S250818k: GTC/OSIRIS Optical Detection of AT2025ulz",
+  "submittedHow": "web",
+  "circularId": 41502,
+  "format": "text/plain",
+  "createdOn": 1755885595166,
+  "body": "Rosa L. Becerra (U Rome), Alan M. Watson (UNAM), and Eleonora Troja (U Rome) report on behalf of a larger team:\n\nWe observed the field of AT2025ulz/ZTF25abjmnps, reported by Stein et al. (GCN 41414) and possibly associated with the candidate gravitational wave signal S250818k (LVK Collaboration, GCN 41437, 41440), with the OSIRIS instrument mounted on the GTC telescope. Our observations began at 2025-08-21 21:40 UTC (3.9 days after the trigger) and were carried out in the r and z filters with an average airmass of ~1.3 and excellent seeing.\n\nAfter image subtraction against Legacy Survey templates (Dey et al. 2019), we detect the source with a preliminary magnitude of r~23.4 AB, consistent with the near-contemporaneous observations of Malesani et al. (GCN 41492). \nWe also confirm a very red color, in agreement with earlier observations (Hall et al., GCN 41433; O’Connor et al., GCN 41452; Gillanders et al., GCN 41454; Liu et al., GCN 41461; Perley et al., GCN 41480).\n\nFurther observations are planned.\n\nWe thank the staff at the GTC, especially Antonio García Rodríguez, Antonio Marante Barreto, and Antonio Cabrera for the rapid execution of these observations. \n",
+  "submitter": "Rosa L. Becerra at Tor Vergata, Roma <rosa.becerra@roma2.infn.it>",
+  "eventId": "LIGO/Virgo/KAGRA S250818k"
+}

@@ -1,0 +1,11 @@
+{
+  "bibcode": "2025GCN.41505....1T",
+  "circularId": 41505,
+  "submittedHow": "web",
+  "submitter": "Mahito Sasada at Tokyo Institute of Technology <sasada@hp.phys.titech.ac.jp>",
+  "format": "text/plain",
+  "subject": "LIGO/Virgo/KAGRA S250818k: J-GEM follow-up observation for AT2025ulz",
+  "body": "K. Taguchi (Kyoto U.), Y. Utsumi (NAOJ), M. Sasada (Science Tokyo), R. Itoh (Bisei Astronomical Observatory), T. Morokuma (Chiba Tech), K. Ohta (Kyoto U.), I. Takahashi (Science Tokyo), M. Tanaka (Tohoku), N. Tominaga (NAOJ), M. Yoshida (NAOJ), on behalf of J-GEM collaboration\n\nWe observed the optical transient AT2025ulz/ZTF25abjmnps (Stein et al., GCN 41414), which has been reported by Stein et al., GCN 41414; Busmann et al., GCN 41421; Hall et al., GCN 41433; Karambelkar et al., GCN 41436; O’Connor et al., GCN 41452; Gillanders et al., GCN 41454; Liu et al., GCN 41461; Banerjee et al., GCN 41476; Perley et al., GCN 41480; D'Avanzo et al., GCN 41489; Malesani et al., GCN 41492; Smartt et al., GCN 41493; Bruni et al., GCN 41500; Santos et al., GCN 41501; Becerra et al., GCN 41502; An et al., GCN 41503, as a possible source to the Gravitational Wave Event S250818k (LVK collaboration GCN 41437; 41440), using TriCCS, a three-color simultaneous CMOS imager, on the 3.8m Seimei Telescope in Okayama, Japan.\n\nWe began the observation at 10:47:59 on Aug 20, 2025 (UT), 2.39 days after the merger.  Images in g, r, i, and z were integrated for 3899, 3899, 1919, and 1979 secs, respectively, resulting in coadded images with limiting magnitudes of 22.12, 21.87, 21.85, and 21.11 (AB, 5 sigma)\n\nDifferential image analysis against the PanSTARRS archival data (Chambers et al. 2016) using ZOGY (Zackay et al. 2016) has been attempted, but no obvious source has been revealed. \n\nA Sersic model of n=0.5 subtracted the host galaxy reasonably well, which revealed a possible remnant in g, r, i at the source location reported in GCN 41414; however, the forced aperture photometry at the reported location was consistent with the background sky fluctuation. \n\nFurther analysis is underway.\n",
+  "createdOn": 1755927423906,
+  "eventId": "LIGO/Virgo/KAGRA S250818k"
+}

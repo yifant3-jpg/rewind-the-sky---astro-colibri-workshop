@@ -1,0 +1,14 @@
+{
+  "body": "N. Pankov (HSE, IKI), A. Moskvitin (SAO RAS), A. Pozanenko (IKI), S. Kotov (SAO RAS), A. Volnova (IKI), P. Minaev (IKI) report on behalf of the IKI-GRB-FuN collaboration:\n\nWe observed the field of an optical transient AT2025ulz detected by ZTF (Stein et. al, GCN 41414) in the localization region of a candidate binary neutron star merger S250818k (LVK, GCN 41437). The observations with BTA 6-meter telescope of SAO RAS started on 2025-08-22 at 17:18:46 UT, i.e. ~4.67 days since LVK trigger. We obtained 2.4 ks exposure in the z'-band using the Scorpio-2 multi-mode focal reducer (Afanasiev & Moiseev,  2011, BaltA, 20, 363) installed in the prime focus of the telescope. We applied image subtraction using LS DR10 z-band image as reference. We clearly detect the optical source in the difference image at the position given by ZTF (Stein et. al, GCN 41414). The preliminary photometry of the source is presented below:\n\nDate       UTstart  Exptime,s T-T0,days Filter OT    Err  UL(3sigma) FWHM,\"\n---------- -------- -------   -------   --     ----- ---- ----       ---\n2025-08-22 17:18:46 2400.13   4.67963   z'     24.09 0.24 24.3       1.8\n\nThe photometry was calibrated using comparison stars from SDSS-DR12 and not corrected for the Galactic extinction. The OT was also followed by (Busmann et. al, GCN 41421; Hall et. al, GCN 41433; Karambelkar et. al, GCN 41436; Nicholl et. al, GCN 41439; Srivastav et. al, GCN 41451; O’Connor et. al, GCN 41452; Gillanders et. al, GCN 41454; Mo et. al, GCN 41456; Liu et. al, GCN 41461; Ackley et. al, GCN 41468; Klose et. al, GCN 41474; Banerjee et. al, GCN 41476; Perley et. al, GCN 41480; D'Avanzo et. al, GCN 41489; Malesani et. al, GCN 41492; Smartt et. al, GCN 41493; Santos et. al, GCN 41501; Becerra et. al, GCN 41502; An et. al, GCN 41503; Passaleva et. al, GCN 41504; Taguchi et. al, GCN 41505; Troja et. al, GCN 41506; Freeburn et. al, GCN 41507; Angulo et. al, GCN 41518; Antier et. al, GCN 41519; Banerjee et. al, GCN 41532; Lipunov et. al, GCN 41534; Busmann et. al, GCN 41535; Kasliwal et. al, GCN 41538; Gillanders et. al, GCN 41540; Becerra et. al, GCN 41544). We note that our measurements may be affected during image subtraction and should be considered as a lower limit on the source brightness.",
+  "createdOn": 1756208950385,
+  "submittedHow": "web",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Nicolai Pankov at HSE, IKI RAS <colinsergesen@gmail.com>",
+  "circularId": 41548,
+  "eventId": "LIGO/Virgo/KAGRA S250818k",
+  "format": "text/plain",
+  "bibcode": "2025GCN.41548....1P",
+  "editedOn": 1756215470432,
+  "subject": "LIGO/Virgo/KAGRA S250818k: SAO RAS BTA z-band observations of AT2025ulz",
+  "version": 2,
+  "submitter": "Nicolai Pankov at HSE, IKI RAS <colinsergesen@gmail.com>"
+}

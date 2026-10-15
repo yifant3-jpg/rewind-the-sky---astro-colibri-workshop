@@ -1,0 +1,11 @@
+{
+  "eventId": "LIGO/Virgo/KAGRA S250206dm",
+  "subject": "LIGO/Virgo/KAGRA S250206dm: ePESSTO+ classification of AT2025bar",
+  "submitter": "James Gillanders at University of Oxford <jhgillanders.astro@gmail.com>",
+  "createdOn": 1738998988300,
+  "body": "J. Gillanders (Oxford), D. Magill, M. Fulton (QUB), S. Srivastav (Oxford), T. de Lourenco Pessi (ESO), P. Pessi (Stockholm), D. O’Neill (Warwick), T.-W. Chen (NCU), J. Anderson (ESO), M. Gromadzki (Warsaw), C. Inserra (Cardiff), E. Kankare (Turku), T. Müller Bravo (Trinity), A. Horowicz, O. Yaron, E. Zimmerman (Weizmann), D. Young (QUB).\n\nePESSTO+, the advanced Public ESO Spectroscopic Survey for Transient Objects (Smartt et al., 2015, 2015A&A...579A..40S) observed AT2025bar, the candidate optical counterpart reported by Steeghs et al., (GCN 39215) for the LIGO/Virgo/KAGRA GW event S250206dm (LVK Collaboration, GCN 39175).\n\nOur observation was carried out with ESO’s New Technology Telescope (NTT) at La Silla, employing EFOSC2 and Grism #13 (3985-9315A, 18A resolution). Our observation commenced at 2025-02-08 06:06 UTC, corresponding to 1.36 days (or 32.7 hours) after the GW merger event, and consisted of a single 2100s exposure employing a 1.5 arcsec slit. \n\nThe reduced spectrum closely resembles a type Ia supernova ~a few days pre-maximum light, with a redshift of ~0.17 (determined from template matching with SNID; Blondin & Tonry, 2007, 2007ApJ...666.1024B). Thus, we conclude that AT2025bar is not related to the GW event S250206dm.\n\nThis classification spectrum (and additional details) will be publicly available within 24 hours from http://www.pessto.org (via WISeREP) and the IAU Transient Name Server, as part of standard ePESSTO+ science operations.",
+  "circularId": 39227,
+  "format": "text/plain",
+  "bibcode": "2025GCN.39227....1G",
+  "submittedHow": "web"
+}

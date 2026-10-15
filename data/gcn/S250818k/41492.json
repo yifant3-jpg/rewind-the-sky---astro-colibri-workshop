@@ -1,0 +1,11 @@
+{
+  "submitter": "Daniele Bjørn Malesani at Cosmic Dawn Center, Niels Bohr Institute <daniele.malesani@nbi.ku.dk>",
+  "body": "D. B. Malesani (DAWN/NBI and Radboud), A. Boye (DTU Space), L. Izzo (INAF/OAC and DARK/NBI), G. Leloudas (DTU Space), J. An (NAOC), X. Liu (NAOC), D. Xu (NAOC), M. Fraser (UCD), S. J. Brennan (MPE), J. Broe Bendsten (SDU), I. A. Koch (SDU), S. Lund Wagner (SDU), J. Magaard Knudsen (SDU), J. Hein Pedersen (SDU), J. P. U. Fynbo (DAWN/NBI), R. Holmberg Rasmussen (NOT and Aarhus), K. Valeckas (NOT and NBI), M. De Pasquale (U. Messina) report on behalf of a larger collaboration:\n\nWe observed the optical transient AT2025ulz (Stein et al., GCN 41414; Busmann et al., GCN 41421; Hall et al., GCN 41433; Karambelkar et al., GCN 41436; O’Connor et al., GCN 41452; Gillanders et al., GCN 41454; Liu et al., GCN 41461; Banerjee et al., GCN 41476; Perley et al., GCN 41480), possibly connected with the GW event S250818k (LVK Collaboration, GCNs 41437, 41440), using the Nordic Optical Telescope (NOT) equipped with the ALFOSC camera. Observations were started on 2025 Aug 20.875 UT (2.82 days after the GW trigger time). We adopted the filters r, i, and z (exposure times of 1200, 1200, and 1500 s, respectively).\n\nImage subtraction using the Legacy sky survey as reference reveals a transient at coordinates (J2000):\n\nRA = 15:51:54.19\nDec = +30:54:08.3\n\nwith an estimated error of < 0.5\". These are consistent with the ZTF position (Stein et al., GCN 41414). The transient is located 1\" southwest of the nucleus of its host galaxy, at a projected distance of 1.6 kpc (z = 0.0848; Karambelkar et al., GCN 41436; Banerjee et al., GCN 41476). Using nearby calibrators from the Legacy Survey, we obtained a provisional magnitude measurement of r = 23.2 ± 0.2 (AB), at a mean time of 2025 August 20.883 UT. We caution that we expect to refine our results after securing a deep template with the same instrument and filter.\n",
+  "createdOn": 1755862251943,
+  "bibcode": "2025GCN.41492....1M",
+  "circularId": 41492,
+  "submittedHow": "web",
+  "format": "text/plain",
+  "eventId": "LIGO/Virgo/KAGRA S250818k",
+  "subject": "LIGO/Virgo/KAGRA S250818k: NOT optical observations of AT2025ulz"
+}

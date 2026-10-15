@@ -1,0 +1,14 @@
+{
+  "eventId": "FRB 20250206A",
+  "circularId": 39715,
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov>",
+  "subject": "FRB 20250206A: Nondetection of Repeating Bursts from FRB 20250206A with FAST",
+  "bibcode": "2025GCN.39715....1G",
+  "editedOn": 1741961202792,
+  "version": 2,
+  "submittedHow": "web",
+  "body": "Shi-Jie Gao (NJU), Xiang-Dong Li (NJU), Yi-Xuan Shao (NJU), Ping Zhou (NJU) and Pei Wang (NAOC) report:\n\n\nFollowing the detection of the binary compact object merger event S250206dm by the LIGO-Virgo-KAGRA Collaboration (GCN [39175](https://gcn.nasa.gov/circulars/39175)), the CHIME/FRB collaboration reported a fast radio burst, FRB 20250206A (GCN [39216](https://gcn.nasa.gov/circulars/39216)). The burst occurred less than one minute after S250206dm, with an estimated spatial coincidence probability of 0.1%.\n\nWe conducted a follow-up observation using the Five-hundred-meter Aperture Spherical radio Telescope (FAST) on 2025-02-27, starting at MJD 60733.130141 (convert to infinite frequency in TDB scale). The observation used the L-band (1.25 GHz, 500 MHz bandwidth) 19-beam receiver, with the central beam pointed at R.A. = 22:34:48.72, Decl. = +12:10:11.6. The total integration time was 4800 s.\n\nNo radio pulsation was detected in either the central beam or the surrounding beams. The non-detection places an upper limit of ~10 mJy on millisecond-duration pulses.\n\nThis work was made use of the data from FAST (Five-hundred-meter Aperture Spherical radio Telescope, https://cstr.cn/31116.02.FAST). FAST is a Chinese national mega-science facility, operated by National Astronomical Observatories, Chinese Academy of Sciences.",
+  "format": "text/markdown",
+  "submitter": "gaosj@smail.nju.edu.cn",
+  "createdOn": 1741924583073
+}

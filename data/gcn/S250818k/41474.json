@@ -1,0 +1,10 @@
+{
+  "bibcode": "2025GCN.41474....1K",
+  "eventId": "LIGO/Virgo/KAGRA S250818k",
+  "submittedHow": "email",
+  "body": "\nS. Klose, B. Stecklum, A. Nicuesa Guelbenzu, and F. Ludwig (all\nTautenburg) report:\n\nWe observed the optical transient ZTF25abjmnps/AT2025ulz (Stein et\nal., GCN 41414), possibly associated with the gravitational wave event\nS250818k (GCN 41437), with the Tautenburg 1.34-m Schmidt telescope\nusing the Sloan filter set.\n\nObservations were performed on 20-08-2025 between 20:06 and 20:39 UT\nas well as between 21:57 and 22:30 UT. They reached a 3-sigma upper\nlimit in r and i of 22.3 and 22.4 mag (AB), respectively. Photometric\ncalibration was performed using Pan-STARRS DR2.\n\nAt the position of the optical transient (OT) discovered by Stein et\nal. (GCN 41414; see also Busmann et al., GCN 41421; Hall et al., GCN\n41433), no point source superimposed the underlying host galaxy was\ndetected / could be identified.\n\nGiven the closeness of the OT to the host galaxy's nucleus (Liu et\nal., GCN 41461) we caution that the photometric limits are preliminary.\n\n",
+  "submitter": "Sylvio Klose at TLS Tautenburg <klose@tls-tautenburg.de>",
+  "createdOn": 1755803219263,
+  "subject": "LIGO/Virgo/KAGRA S250818k : Tautenburg observations, upper limits",
+  "circularId": 41474
+}

@@ -1,0 +1,14 @@
+{
+  "format": "text/plain",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Malte Busmann at Ludwig-Maximilians-Universität München <m.busmann@physik.lmu.de>",
+  "eventId": "LIGO/Virgo/KAGRA S250206dm",
+  "submittedHow": "email",
+  "createdOn": 1739235866811,
+  "circularId": 39273,
+  "editedOn": 1773157127978,
+  "subject": "LIGO/VIRGO/KAGRA S250206dm: AT 2025bbo spectroscopic observations with NIRES on Keck II",
+  "bibcode": "2025GCN.39273....1K",
+  "submitter": "Viraj Karambelkar at Indian Inst of Tech,Bombay <karambelkarvraj21197@gmail.com>",
+  "version": 2,
+  "body": "Viraj Karambelkar (Caltech), Tomas Ahumada (Caltech), Sam Rose (Caltech),\nKaew Tinyanont (NARIT), Christoffer Fremling (Caltech), Nicholas Earley\n(Caltech),  and Mansi Kasliwal (Caltech) report:\n\nWe observed the transient AT2025bbo (GCN 39210; 39244) with the\nNear-Infrared Echelle Spectrograph (NIRES, Wilson et al. 2004) on the Keck\nII telescope on  2025-02-10 05:29:43 UTC. Our observations comprised six\nexposures of 300s each. The spectra were extracted using the idl package\nspextool (Cushing et al. 2003, Vacca et al. 2004)\n\nThe spectrum shows several absorption features attributable to the host\ngalaxy (CN, Mg I, Si I, CO absorption) at a redshift of z=0.070+/-0.001,\nconsistent with the redshift reported in GCN 39272. No obvious features\nattributable to a supernova or AGN are visible. Further analysis is in\nprogress.\n\nWe thank the Keck Observatory staff (Carlos Alvarez and Rita) and the Keck\nII observers (Maissa Salama and Becky Jensen-Clem) for their cooperation\nwith the Target of Opportunity observations.\n"
+}

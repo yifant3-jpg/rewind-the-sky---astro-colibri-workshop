@@ -1,0 +1,11 @@
+{
+  "submittedHow": "web",
+  "body": "A. Bogomolov, V. Bogomolov, A. Iyudin, S. Svertilov. \non behalf of the MSU “Sozvezdie-270” team, report:\n\nAt the event time (2025-02-06 21:25:30 UTC) of S250206dm (GCN circulars #39175; #39178; #39231) two cubesats of the Moscow University project “Constellation-270” [1] were operating. These are Avion (the DeCoR-1 and DeCoR-2 instruments) and Arcticsat (the DeCoR-2 instrument).\n \nThe analysis of monitoring data with the available time resolution of ~1 s did not reveal a significant increase in the count rate of all detectors in the time interval 21:22-21:30 UTC. The following 3-sigma upper limits on the flux were obtained (in units of 10^-7 erg/s/cm^2) for the timescales 1s and 5s.\n\nSatellite  Energy Range Upper Limit(1s) Upper Limit(5s)\nAvion       30-500 keV       2.3          1.0\nArcticsat   50-500 keV       1.1          0.5\n\nIn the calculations we assumed the following source coordinates: RA=38°, Dec=53° (see GCN circulars #39231, #39261)\n\nAvion and Arcticsat are the cubesats of the Moscow University project “Constellation-270” [1] launched on 2023 June 27 (Avion) and on 2024 November 5 (Arcticsat). The payload of both cubesats is a set of scintillation gamma-ray detectors DeCoR [2], the energy range is >30 keV (Avion) and >50 keV (Arcticsat), the time resolution is 0.5s (Avion) and 1 s (Arcticsat). \n\n[1] Svertilov et al. 2023  https://link.springer.com/chapter/10.1007/978-3-031-50248-4_21\n[2] Bogomolov et al. 2022 Universe 8, 282 https://www.mdpi.com/2218-1997/8/5/282\n\n",
+  "createdOn": 1740005892806,
+  "circularId": 39378,
+  "subject": "LIGO/Virgo/KAGRA S250206dm: Upper limits from MSU cubesats observations",
+  "format": "text/plain",
+  "bibcode": "2025GCN.39378....1B",
+  "eventId": "LIGO/Virgo/KAGRA S250206dm",
+  "submitter": "Andrey Bogomolov at Moscow State University <aabboogg@srd.sinp.msu.ru>"
+}

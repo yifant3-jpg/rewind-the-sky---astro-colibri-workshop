@@ -1,0 +1,11 @@
+{
+  "submittedHow": "web",
+  "body": "Malte Busmann (LMU), Xander J. Hall (Carnegie Mellon U.), Daniel Gruen (LMU), Brendan O’Connor (Carnegie Mellon U.), Antonella Palmese (Carnegie Mellon U.), and Mansi Kasliwal (Caltech) report:\n\nWe observed the source AT 2025ulz reported by Stein et al. (GCN 41414)  possible counterpart to the LVK sub-threshold event S250818k (GCN 41437, 41440), with the Three Channel Imager (3KK) at the Fraunhofer Telescope at Wendelstein Observatory (FTW) in the g, i, and J bands simultaneously starting at 2025-08-24T19:33:25 for 20 x 180 s with a few interruptions due to clouds. The difference imaging with templates from the Legacy Survey for the g-band and PS1 for the i-band, we report that AT 2025ulz has g - i ~ 1.7 AB mag.\n\nWe note our differenced i-band brightness is consistent with observations reported by Freeburn et al. (GCN 41507) and Angulo et al. (GCN 41518).\n\nThe magnitudes are calibrated against the PS1 catalog and not corrected for Galactic extinction.\n\nFurther analysis is underway.\n\nWe thank Christoph Ries from the Wendelstein Observatory staff for obtaining these observations.",
+  "createdOn": 1756112959490,
+  "subject": "LIGO/Virgo/KAGRA S250818k: FTW Observations Show Continued Reddening of AT 2025ulz",
+  "circularId": 41535,
+  "submitter": "Malte Busmann at Ludwig-Maximilians-Universität München <m.busmann@physik.lmu.de>",
+  "bibcode": "2025GCN.41535....1B",
+  "eventId": "LIGO/Virgo/KAGRA S250818k",
+  "format": "text/plain"
+}

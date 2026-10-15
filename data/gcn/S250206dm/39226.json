@@ -1,0 +1,11 @@
+{
+  "circularId": 39226,
+  "createdOn": 1738997731080,
+  "bibcode": "2025GCN.39226....1F",
+  "submittedHow": "web",
+  "body": "Francis Fortin (IRAP), Alan M. Watson (UNAM), Sarah Antier (OCA), Stéphane Basa (UAR Pytheas), William H. Lee (UNAM), Dalya Akl (AUS), Camila Angulo (UNAM), Jean-Luc Atteia (IRAP), Rosa L. Becerra (Università degli Studi di Roma Tor Vergata), Nathaniel R. Butler (ASU), Damien Dornic (CPPM), Jean-Grégoire Ducoin (CPPM), Noémie Globus (UNAM), Francesco Magnani (CPPM), Margarita Pereyra (UNAM), and Benjamin Schneider (LAM) report:\n\nWe imaged the fields of the two candidates reported by the DDOTI team (Becerra et al., GCN Circ. 39208) as a possible optical counterpart of the GW transient S250206dm (LVK Collaboration, GCN Circ. 39175, GCN Circ. 39184) with the DDRAGO wide-field imager on the COLIBRÍ telescope at the Observatorio Astronómico Nacional on the Sierra de San Pedro Mártir in Mexico.\n\nWe observed source 1 from 2025-02-08 04:48 to 05:20, obtaining 480 seconds of exposure in each of the g and r filters. At the position of the source reported by Becerra et al., we do not detect a source to 3-sigma limiting magnitudes of:\n\ng > 22.0\nr > 22.1\n\nWe observed source 2 from 2025-02-08 05:39 to 06:09, again obtaining 480 seconds of exposure in each of the g and r filters. At the position of the source reported by Becerra et al., we do not detect a source to 3-sigma limiting magnitudes of:\n\ng > 22.5\nr > 22.6\n\nThe data were reduced and stacked using custom software and then calibrated against the PS1 catalog and analysed using STDPipe (Karpov 2021).\n\nOur magnitude limits are not corrected for Galactic extinction.\n\nOur limits at about 32 hours after the GW event are significantly fainter than the detections reported by the DDOTI team.\n\nWe warmly thank the COLIBRÍ and DDRAGO engineering teams and the staff of the Observatorio Astronómico Nacional on the Sierra de San Pedro Mártir.",
+  "format": "text/plain",
+  "subject": "LIGO/Virgo/KAGRA S250206dm: COLIBRÍ/DDRAGO Observations of the DDOTI optical candidates",
+  "submitter": "F. Fortin at IRAP <ffortin.sci.edu@gmail.com>",
+  "eventId": "LIGO/Virgo/KAGRA S250206dm"
+}

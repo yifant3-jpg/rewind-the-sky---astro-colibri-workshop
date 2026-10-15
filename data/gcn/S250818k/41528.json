@@ -1,0 +1,11 @@
+{
+  "createdOn": 1756051228317,
+  "submittedHow": "web",
+  "submitter": "Rosa L. Becerra at Tor Vergata, Roma <rosa.becerra@roma2.infn.it>",
+  "subject": "LIGO/Virgo/KAGRA S250818k: Swift Observations of AT 2025ulz - Second Epoch",
+  "circularId": 41528,
+  "bibcode": "2025GCN.41528....1B",
+  "body": "Rosa L. Becerra (U Rome), Eleonora Troja (U Rome) and Simone Dichiara (PSU) report:\n\nWe requested a second epoch of ToO observations of AT2025ulz/ZTF25abjmnps (Stein et al.; GCN 41414) discovered within the localization of the candidate gravitational wave signal S250818k (LVK Collaboration, GCN 41437, 41440).\n\nThe observations started on 2025-08-22 at 21:56 UT, approximately 4.9 days after the trigger, with a total exposure of 3.2 ks. At the transient position, we detect no X-ray source down to a 3-sigma upper limit of 0.004 cts/s (0.3-10 keV), consistent with the result reported by Hall et al. (GCN 41453). Using a power-law with nH=2.2E+20 and a photon index=2, we convert the count rate into an unabsorbed flux of 1.5e-13 erg/cm2/s, which corresponds to a luminosity of 3e42 erg/s at z=0.0848 (Karambelkar et al. GCN 41436). \n\nIn simultaneous UVOT observations performed with the u filter, we identify some faint diffuse emission likely related to the host galaxy and place 3-sigma upper limit u > 21 AB at the transient’s position, in agreement with the faint detection reported by Troja et al. (GCN 41506).\n\nWe thank the Swift team and the PI for promptly scheduling and making these observations possible.\n",
+  "eventId": "LIGO/Virgo/KAGRA S250818k",
+  "format": "text/plain"
+}

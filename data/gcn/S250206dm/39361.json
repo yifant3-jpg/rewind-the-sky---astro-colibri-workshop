@@ -1,0 +1,11 @@
+{
+  "createdOn": 1739877887141,
+  "subject": "LIGO/Virgo/KAGRA S250206dm: AZT-33IK Target Optical Observations",
+  "submittedHow": "web",
+  "eventId": "LIGO/Virgo/KAGRA S250206dm",
+  "bibcode": "2025GCN.39361....1P",
+  "format": "text/plain",
+  "body": "N. Pankov (HSE, IKI), A. Pozanenko (IKI, HSE), A. Volnova (IKI), E. Klunko (ISTP) report on behalf of the IKI GRB-FuN collaboration:\n\nWe observed the fields of 8 GLADE+ galaxies contained in the 50% probability volume traced by the LIGO/Virgo/KAGRA in the latest Bilby.offline1.multiorder.fits skymap file for S250206dm (LIGO Scientific Collaboration, GCN 39175; LIGO Scientific Collaboration, GCN 39184). The observations were carried out with the 1.5-meter telescope of the Sayan Solar Observatory located at Mondy, Buryatia. The series of the 3*120 sec exposures in the R-filter were taken on epochs of Feb. 12 and Feb. 14. We performed subtraction of the Feb.14 stacked images from the ones taken on Feb.12. Our preliminary analysis of the residual difference images does not reveal any prominent optical transient located in the vicinity of the observed GLADE+ galaxies.\n\nThe preliminary 3-sigma upper limits on the subtracted images are as follows:\n\nGalaxy                UTstart             MJDmid      Exp.  Filter UL   FWHM\n------                -------             ------      ----  ------ ---- ----\nJ021712_47_+532137_62 2025-02-12T14:32:26 60718.60795 3*120 R      19.7 2.9\nJ021738_38_+521958_56 2025-02-12T14:05:11 60718.58902 3*120 R      20.6 3.1\nJ021815_59_+530110_02 2025-02-12T14:25:32 60718.60315 3*120 R      20.3 2.9\nJ021826_85_+523810_42 2025-02-12T14:11:41 60718.59354 3*120 R      19.8 3.4\nJ021830_02_+524021_45 2025-02-12T14:18:37 60718.59835 3*120 R      19.8 3.0\nJ022347_90_+514635_27 2025-02-12T13:58:32 60718.58440 3*120 R      20.2 2.8\nJ022352_96_+513006_26 2025-02-12T13:44:43 60718.57481 3*120 R      20.3 2.8\nJ022405_82_+513240_21 2025-02-12T13:51:37 60718.57960 3*120 R      20.4 3.0\n* 60712.89271 MJD -- The LIGO trigger time for S250206dm\n\nThe photometry is based on nearby stars from the USNO-B1.0 catalog (R2 magnitudes) and has not been\ncorrected for the Galactic extinction. The further analysis is ongoing.",
+  "submitter": "Nicolai Pankov at HSE, IKI RAS <colinsergesen@gmail.com>",
+  "circularId": 39361
+}

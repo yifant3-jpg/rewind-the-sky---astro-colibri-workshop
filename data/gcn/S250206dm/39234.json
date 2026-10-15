@@ -1,0 +1,11 @@
+{
+  "format": "text/markdown",
+  "body": "D. A. Coulter (STScI), C. D. Kilpatrick (Northwestern), P. Macias (UCSC), R. J. Foley (UCSC), K. W. Davis (UCSC), A. Villar (Harvard) reports on behalf of the Gravity Collective [1, 2]:\n\nWe searched the localization region of the probable NSBH merger candidate, S250206dm (LVK Collaboration, [GCN 39175](https://gcn.nasa.gov/circulars/39175)), with the ~0.22 square degree field-of-view near IR imager NEWFIRM currently mounted on the Blanco 4-m telescope at CTIO. We observed the entire 0.43 deg confidence region reported by the IceCube Collaboration ([GCN 39176](https://gcn.nasa.gov/circulars/39176)) that overlapped with the GW localization, beginning observations at 2025-02-07 05:47 UTC (+8.3 hours after GW trigger) in J-band. We obtained 3 sequences of 22x5 second co-adds across the neutrino confidence region, with an average depth of J ~ 22 AB mag. \n\nData were processed using standard procedures in photpipe [3], and we performed image subtraction across each field using templates constructed from VIRCAM J-band images with limiting magnitudes of J ~ 19 AB mag.  After vetting sources of transient emission as being unassociated with variable stars, minor planets, and known transients in each surveyed field, we concluded that there are no likely sources of transient emission in the NEWFIRM imaging. \n\n[1] Kilpatrick, C. D. et al. 2021\n[2] Coulter, D. A.,  et al. 2024 \n[3] Rest, A. et al. 2005\n",
+  "subject": "LIGO/Virgo/KAGRA S250206dm: NEWFIRM NIR Observations",
+  "eventId": "LIGO/Virgo/KAGRA S250206dm",
+  "createdOn": 1739024963833,
+  "bibcode": "2025GCN.39234....1C",
+  "submittedHow": "web",
+  "circularId": 39234,
+  "submitter": "David Coulter at STScI <dcoulter@ucsc.edu>"
+}

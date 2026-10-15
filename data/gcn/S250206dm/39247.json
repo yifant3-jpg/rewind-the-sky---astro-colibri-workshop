@@ -1,0 +1,10 @@
+{
+  "createdOn": 1739090922452,
+  "body": "A. J. Castro-Tirado, I. Perez-Garcia, M. D. Caballero-Garcia, E. Fernandez-Garcia, S. Guziy, R. Sanchez-Ramirez and S.-Y. Wu (IAA-CSIC), A. Sintes (Univ. Illes Balears), J. A. Font (Univ. de Valencia), Y.-D. Hu (GXU), M. Gritsevich (Univ. of Helsinki), G. Garcia-Segura, and D. Hiriart (Instituto de Astronomía-UNAM, Ensenada), W. H. Lee (UNAM) and I. Hermelo (CAHA), on behalf of a larger collaboration, report:\n\nFollowing the detection of the compact binary merger (either NS-NS or NS-BH) event S250206dm (the LIGO-Virgo-Kagra Collaboration, GCNC 39175) and the report of a near simultaneous fast radio burst (dubbed FRB 20250206A, the CHIME/FRB collaboration, GCNC 39216), we conducted follow-up optical observations on Feb 8 with both the 0.6m J. Gorosabel robotic telescope at the BOOTES-5 station in Observatorio Nacional de San Pedro Martir (Mexico) and the 2.2m telescope at Calar Alto Observatory (Spain). Data were gathered under poor conditions, due to the extremely high airmass of the target (larger than 4), resulting in null optical detection at the position of FRB 20250206A, with the upper limits for the unfiltered images being 16.5 (2:30 UT) and 20.1 (19:00 UT) respectively.\n\nIf the two events would be related, the absence of an optical transient similar to AT 2017gfo (associated to GW 170817A) would be explained by the larger distance (373+/-104 Mpc, LKV collaboration, GCNC 39231) compared to 40 Mpc (for AT 2017gfo in NGC 4993). The absence of a host galaxy in archival PanSTARRS1 images would be also in agreement with Lipunov et al.’s suggestion (GCNC 39220).\n\n\n",
+  "subject": "LIGO/Virgo/KAGRA S250206dm: FRB 20250206A BOOTES-5 and 2.2m CAHA optical upper limits",
+  "submitter": "Alberto Castro-Tirado at Inst.de Astro. de Andalucia <ajct@iaa.es>",
+  "bibcode": "2025GCN.39247....1C",
+  "circularId": 39247,
+  "submittedHow": "email",
+  "eventId": "LIGO/Virgo/KAGRA S250206dm"
+}

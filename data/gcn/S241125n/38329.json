@@ -1,0 +1,11 @@
+{
+  "body": "Rosa L. Becerra (Tor Vergata, Roma), Eleonora Troja (Tor Vergata, Roma), Camila Angulo Valdez (UNAM), Alan M. Watson (UNAM), Nat Butler (ASU), Simone Dichiara (Penn State University), Tsvetelina Dimitrova (ASU), Alexander Kutyrev (GSFC/UMD), William H. Lee (UNAM), Océlotl López (UNAM), and Margarita Pereyra (UNAM) report:\n\nWe observed the field of LIGO/Virgo/KAGRA S241125n (LVKC, GCN 38305) with the DDOTI/OAN wide-field imager at the Observatorio Astronomico Nacional on Sierra San Pedro Martir (http://ddoti.astroscu.unam.mx) on the night of 2024-11-26 UTC.\n\nWe performed two pointings which include the position of the Swift/GUANO candidate counterpart (DeLaunay et al., GCN 38308) and the 5 X-ray sources reported by XRT (Page et al., GCN 38324). DDOTI observed from 02:01 UTC to 04:17 UTC (from T+25.0 to T+27.2 hours after the event) down to a 10-sigma limiting magnitude of w = 20.4.\n\nComparing our observations to the USNO-B1 and PanSTARRS PS1 DR2 catalogs we detect no uncatalogued sources within the observed field to our 10-sigma limit. \n\nWe thank the staff of the Observatorio Astronómico Nacional in San Pedro\nMártir.\n",
+  "circularId": 38329,
+  "subject": "LIGO/Virgo/KAGRA S241125n: DDOTI Optical Upper Limits ",
+  "createdOn": 1732641556140,
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38329....1B",
+  "submitter": "Rosa L. Becerra at Tor Vergata, Roma <rosa.becerra@roma2.infn.it>",
+  "eventId": "LIGO/Virgo/KAGRA S241125n",
+  "format": "text/plain"
+}

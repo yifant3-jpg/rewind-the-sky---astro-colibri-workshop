@@ -1,0 +1,14 @@
+{
+  "circularId": 41480,
+  "editedOn": 1755822562998,
+  "subject": "LIGO/Virgo/KAGRA S250818k: Continued fading and reddening of AT2025ulz from Keck/LRIS imaging observations",
+  "eventId": "LIGO/Virgo/KAGRA S250818k",
+  "bibcode": "2025GCN.41480....1P",
+  "editedBy": "Leo P. Singer at NASA/GSFC <leo.p.singer@nasa.gov> on behalf of Daniel Perley at Liverpool JMU <d.a.perley@ljmu.ac.uk>",
+  "version": 2,
+  "submitter": "Daniel Perley at Liverpool JMU <d.a.perley@ljmu.ac.uk>",
+  "createdOn": 1755817619130,
+  "format": "text/plain",
+  "body": "Daniel A. Perley (LJMU), Mansi M. Kasliwal (Caltech), Viraj Karambelkar (Caltech), Michael Lundquist (WMKO), Xander Hall (CMU), Tomas Ahumada (Caltech), Kritti Sharma (Caltech), and Sam Rose (Caltech) report on behalf of the larger ZTF and GROWTH collaboration:\n \nThe location of AT2025ulz (ZTF25abjmnps; Stein et al., GCN 41414), a candidate counterpart to S250818k (LVK Collaboration, GCNs 41437, 41440), was imaged using the Low-Resolution Imaging Spectrometer (LRIS) on the Keck I 10m Telescope on the consecutive nights of 2025 August 20 and 21 (UT), simultaneously in g-band and i-band on each night. On the first night weather conditions were good, and two exposures of 30s each were acquired in each band starting at 2025-08-20 07:04 UT.  The weather was cloudy on the second night.  Three 300s exposures were taken, but due to highly variable atmospheric extinction only the highest-transmission image (starting at 2025-08-21 07:45 UT) was used for this analysis.  The 5-sigma limiting magnitudes of the images are g>24.8, i>23.9 (08-20) and g>23.9, i>23.2 (08-21).\n\nWhile determining the magnitude of the transient is limited by the depth of available reference images, we performed difference imaging between the two nights in each band. Subtracting the 08-20 image from the 08-21 image in each filter, there is a clear detection of a negative point source at the reported location of the transient in the g-band difference image, but no significant residual flux in the i-band difference image.   The difference flux at the transient position from forced photometry is -1.60 +/- 0.20 microJy (g-band) and +0.31 +/- 0.38 microJy (i-band).  This suggests the transient is still rapidly fading in g-band, and likely reddening in g-i color.  This observation is consistent with the kilonova hypothesis and inconsistent with the re-brightening proposed by Liu et al. (GCN 41461).",
+  "submittedHow": "web"
+}

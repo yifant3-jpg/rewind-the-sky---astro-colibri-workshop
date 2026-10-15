@@ -1,0 +1,32 @@
+{"utc": "2026-10-14T08:57:48+00:00", "method": "POST", "endpoint": "/latest_transients", "payload": {"time_range": {"min": "2026-10-12T00:00:00", "max": "2026-10-14T00:00:00"}, "return_format": "json", "optional_parameters": ["archive"]}, "status": 400, "cost": 1, "secs": 0.25}
+{"utc": "2026-10-14T08:58:32+00:00", "method": "GET", "endpoint": "/event", "payload": {"source_name": "S250818k", "optional_parameters": ["archive"]}, "status": 200, "cost": 1, "secs": 0.17}
+{"utc": "2026-10-14T08:58:52+00:00", "method": "GET", "endpoint": "/event", "payload": {"archive_id": "S250818k_0"}, "status": 200, "cost": 1, "secs": 0.09}
+{"utc": "2026-10-14T08:58:52+00:00", "method": "GET", "endpoint": "/event", "payload": {"archive_id": "S250818k_2"}, "status": 200, "cost": 1, "secs": 0.08}
+{"utc": "2026-10-14T08:58:52+00:00", "method": "GET", "endpoint": "/event", "payload": {"archive_id": "S250818k_4"}, "status": 200, "cost": 1, "secs": 0.17}
+{"utc": "2026-10-14T08:58:52+00:00", "method": "GET", "endpoint": "/event", "payload": {"archive_id": "S250818k_5"}, "status": 200, "cost": 1, "secs": 0.09}
+{"utc": "2026-10-14T08:58:52+00:00", "method": "GET", "endpoint": "/followup_summary", "payload": {"trigger_id": "S250818k"}, "status": 200, "cost": 1, "secs": 0.57}
+{"utc": "2026-10-14T08:59:19+00:00", "method": "GET", "endpoint": "/event", "payload": {"source_name": "GRB221009A", "optional_parameters": ["archive"]}, "status": 200, "cost": 1, "secs": 0.12}
+{"utc": "2026-10-14T09:27:11+00:00", "method": "GET", "endpoint": "/event", "payload": {"archive_id": "S250818k_0", "optional_parameters": ["gw_contours"]}, "status": 200, "cost": 1, "secs": 0.37}
+{"utc": "2026-10-14T09:27:15+00:00", "method": "GET", "endpoint": "/event", "payload": {"archive_id": "S250818k_1", "optional_parameters": ["gw_contours"]}, "status": 200, "cost": 1, "secs": 0.28}
+{"utc": "2026-10-14T09:27:15+00:00", "method": "GET", "endpoint": "/event", "payload": {"archive_id": "S250818k_2", "optional_parameters": ["gw_contours"]}, "status": 200, "cost": 1, "secs": 0.16}
+{"utc": "2026-10-14T09:27:16+00:00", "method": "GET", "endpoint": "/event", "payload": {"archive_id": "S250818k_3", "optional_parameters": ["gw_contours"]}, "status": 200, "cost": 1, "secs": 0.24}
+{"utc": "2026-10-14T09:27:16+00:00", "method": "GET", "endpoint": "/event", "payload": {"archive_id": "S250818k_4", "optional_parameters": ["gw_contours"]}, "status": 200, "cost": 1, "secs": 0.23}
+{"utc": "2026-10-14T12:43:27+00:00", "method": "GET", "endpoint": "/event", "payload": {"source_name": "S250206dm", "optional_parameters": ["archive"]}, "status": 200, "cost": 1, "secs": 0.09}
+{"utc": "2026-10-14T12:43:27+00:00", "method": "GET", "endpoint": "/event", "payload": {"source_name": "S241125n", "optional_parameters": ["archive"]}, "status": 200, "cost": 1, "secs": 0.08}
+{"utc": "2026-10-14T12:43:27+00:00", "method": "GET", "endpoint": "/event", "payload": {"source_name": "GRB240612A", "optional_parameters": ["archive"]}, "status": 200, "cost": 1, "secs": 0.09}
+{"utc": "2026-10-14T12:44:42+00:00", "method": "GET", "endpoint": "/event", "payload": {"source_name": "GRB260310A", "optional_parameters": ["archive"]}, "status": 200, "cost": 1, "secs": 0.13}
+{"utc": "2026-10-14T13:50:02+00:00", "method": "GET", "endpoint": "/event", "payload": {"archive_id": "S241125n_0"}, "status": 200, "cost": 1, "secs": 0.14}
+{"utc": "2026-10-14T13:50:02+00:00", "method": "GET", "endpoint": "/event", "payload": {"archive_id": "S241125n_1"}, "status": 200, "cost": 1, "secs": 0.09}
+{"utc": "2026-10-14T13:50:02+00:00", "method": "GET", "endpoint": "/event", "payload": {"archive_id": "S241125n_2"}, "status": 200, "cost": 1, "secs": 0.09}
+{"utc": "2026-10-14T13:50:02+00:00", "method": "GET", "endpoint": "/event", "payload": {"archive_id": "S241125n_3"}, "status": 200, "cost": 1, "secs": 0.09}
+{"utc": "2026-10-14T13:50:03+00:00", "method": "GET", "endpoint": "/event", "payload": {"archive_id": "S241125n_4"}, "status": 200, "cost": 1, "secs": 0.16}
+{"utc": "2026-10-14T13:50:03+00:00", "method": "GET", "endpoint": "/event", "payload": {"archive_id": "S241125n_5"}, "status": 200, "cost": 1, "secs": 0.1}
+{"utc": "2026-10-14T13:50:03+00:00", "method": "GET", "endpoint": "/event", "payload": {"archive_id": "S241125n_6"}, "status": 200, "cost": 1, "secs": 0.09}
+{"utc": "2026-10-14T13:50:03+00:00", "method": "GET", "endpoint": "/event", "payload": {"archive_id": "S241125n_7"}, "status": 200, "cost": 1, "secs": 0.09}
+{"utc": "2026-10-14T16:26:21+00:00", "method": "GET", "endpoint": "/event", "payload": {"archive_id": "S250206dm_0"}, "status": 200, "cost": 1, "secs": 0.11}
+{"utc": "2026-10-14T16:26:21+00:00", "method": "GET", "endpoint": "/event", "payload": {"archive_id": "S250206dm_1"}, "status": 200, "cost": 1, "secs": 0.18}
+{"utc": "2026-10-14T16:26:21+00:00", "method": "GET", "endpoint": "/event", "payload": {"archive_id": "S250206dm_2"}, "status": 200, "cost": 1, "secs": 0.1}
+{"utc": "2026-10-14T16:26:21+00:00", "method": "GET", "endpoint": "/event", "payload": {"archive_id": "S250206dm_3"}, "status": 200, "cost": 1, "secs": 0.09}
+{"utc": "2026-10-14T16:26:21+00:00", "method": "GET", "endpoint": "/event", "payload": {"archive_id": "S250206dm_4"}, "status": 200, "cost": 1, "secs": 0.09}
+{"utc": "2026-10-14T16:26:21+00:00", "method": "GET", "endpoint": "/event", "payload": {"archive_id": "S250206dm_5"}, "status": 200, "cost": 1, "secs": 0.09}
+{"utc": "2026-10-14T16:26:22+00:00", "method": "GET", "endpoint": "/event", "payload": {"archive_id": "S250206dm_6"}, "status": 200, "cost": 1, "secs": 0.16}

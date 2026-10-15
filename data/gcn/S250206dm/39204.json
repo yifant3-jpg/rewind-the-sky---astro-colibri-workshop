@@ -1,0 +1,11 @@
+{
+  "circularId": 39204,
+  "eventId": "Virgo/KAGRA S250206dm",
+  "subject": "IGO/Virgo/KAGRA S250206dm: Virtual Telescope Project upper limit for the Neutrino IceCube Candidate",
+  "submitter": "Gianluca Masi at Virtual Telescope Project <gianluca@bellatrixobservatory.org>",
+  "bibcode": "2025GCN.39204....1M",
+  "submittedHow": "web",
+  "body": "Gianluca Masi (Virtual Telescope Project) reports:\n\nFollowing up LIGO/Virgo/KAGRA S250206dm (LVKC, GCN 39175) at optical wavelengths, we managed to image the field centered at position RA = 149.16, Decl. =-17.94 and covering the complete 0.43 deg. error region reported by the IceCube Collaboration (GCN 39176), remotely using our 250mm-f/4.5 robotic astrograph installed at our facility in Manciano (GR), Italy.\n\nWe collected 35 x 120s unfiltered exposures under significant moonlight, with a total integration of 70 minutes, centered on 22:53:35 UTC, 06 Feb. 2025, about 1.5 hours after the event. A CMOS camera based on the Sony IMX455 sensor was used.\n\nComparing the resulting image with the POSS2, blue filter, we did not record any obvious new source, down to mag. 19.",
+  "createdOn": 1738936904227,
+  "format": "text/plain"
+}

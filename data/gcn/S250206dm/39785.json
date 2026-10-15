@@ -1,0 +1,11 @@
+{
+  "submitter": "Hsin-Yu Chen at The University of Texas at Austin <hsinyu@austin.utexas.edu>",
+  "createdOn": 1742404520223,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39785....1C",
+  "eventId": "LIGO/Virgo/KAGRA S250206dm",
+  "circularId": 39785,
+  "body": "Hsin-Yu Chen (UT Austin), Greg Zeimann (UT McDonald Observatory), J. Craig Wheeler (UT Austin), and Jozsef Vinko (Konkoly Observatory) report on behalf of the LIGHETR Collaboration:\n\nWe conducted targeted follow-up observations of AT 2025azn (Hosseinzadeh et al., GCN 39191), a potential electromagnetic counterpart to the LIGO/Virgo/KAGRA gravitational-wave event S250206dm (LVK Collaboration, GCN 39175), using the Low Resolution Spectrograph (LRS2) on the Hobby-Eberly Telescope (HET) [1].\n\nThe observations were carried out 9 to 14 days after the gravitational-wave event and consisted of two 1800s exposures with LRS2-R (covering 650–842 nm and 818–1050 nm) and two 1800s exposures with LRS2-B (covering 370–470 nm and 460–700 nm) [2].\n\nOur preliminary analysis did not reveal any emission beyond that of the host galaxy. Further analysis is ongoing.\n\n[1] Bustamante Rosell et al, ApJ (2023)\n[2] Chonis et al, Proceedings of the SPIE (2014)",
+  "subject": "LIGO/Virgo/KAGRA S250206dm: LIGHETR followup observations of AT2025azn",
+  "format": "text/plain"
+}

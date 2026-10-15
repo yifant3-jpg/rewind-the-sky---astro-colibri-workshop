@@ -1,0 +1,10 @@
+{
+  "createdOn": 1732602040552,
+  "eventId": "LIGO/Virgo/KAGRA S241125n",
+  "bibcode": "2024GCN.38317....1W",
+  "circularId": 38317,
+  "subject": "LIGO/Virgo/KAGRA S241125n: COLIBRÍ Upper Limits on a Optical Counterpart at the BAT Position",
+  "submitter": "Alan Watson at UNAM <alan@astro.unam.mx>",
+  "body": "Alan M. Watson (UNAM), S. Antier (OCA), Stéphane Basa (UAR Pytheas),\nWilliam H. Lee (UNAM), D. Akl (AUS), Jean-Luc Atteia (IRAP), Nathaniel R.\nButler (ASU), Damien Dornic (CPPM), Francis Fortin (IRAP), J.-G. Ducoin\n(CPPM), Simona Lombardo (LAM), Francesco Magnani (CPPM), and Margarita\nPereyra (UNAM) report:\n\nWe imaged the field of the Swift/BAT-GUANO candidate counterpart (DeLaunay\net al., GCN Circ. 38308) of the GW compact binary merger candidate S241125n\n(LIGO/Virgo/KAGRA Collaborations, GCN Circ. 38305) during the commissioning\nof the COLIBRÍ (SVOM/F-GFT) telescope at the Observatorio Astronómico\nNacional on the Sierra de San Pedro Mártir in Mexico.\n\nWe observed with the engineering test camera in a red filter that\napproximates SDSS r from 2024-11-26 02:08 to 05:49:58 UTC (25.1 to 28.8\nhours after the event) and obtained 188 minutes of exposure on a field\nabout 12 arcmin to a side centered on the BAT position given by DeLaunay et\nal. (GCN Circ. 38308). The data were reduced using custom software and then\nanalysed and calibrated against the PS1 catalog using the STDWeb service.\n\nNo clear candidate is identified to a 5-sigma upper limit of\n\nr > 23.0\n\nThis limit is below the catalog limit, so definite statements on the\nabsence of an optical counterpart will require a second epoch of similar\ndepth.\n\nFurther observations are planned.\n\nWe warmly thank the COLIBRÍ engineering team and the staff of the\nObservatorio Astronómico Nacional on the Sierra de San Pedro Mártir. We\nwarmly thank the GRANDMA IJCLAB team and S. Karpov for the access of the\nSTDWeb service for STDPipe.\n",
+  "submittedHow": "email"
+}

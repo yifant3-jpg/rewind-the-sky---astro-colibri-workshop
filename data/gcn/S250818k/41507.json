@@ -1,0 +1,11 @@
+{
+  "submitter": "James Freeburn at University of North Carolina at Chapel Hill <jamesfreeburn54@gmail.com>",
+  "submittedHow": "web",
+  "circularId": 41507,
+  "subject": "LIGO/Virgo/KAGRA S250818k: Rebrightening detected with Gemini/GMOS",
+  "bibcode": "2025GCN.41507....1F",
+  "createdOn": 1755962321633,
+  "format": "text/plain",
+  "eventId": "LIGO/Virgo/KAGRA S250818k",
+  "body": "J. Freeburn (UNC), B. O’Connor (CMU), X. J. Hall (CMU), M. Busmann (LMU), I. Andreoni (UNC), A. Palmese (CMU), D. Gruen (LMU), L. Hu (CMU), T. Cabrera (CMU), K. Kunnumkai (CMU), A. Amsellem (CMU) report on behalf of a larger collaboration: \n\nUsing Gemini/GMOS-N, starting at 2025-08-23 05:30:48 UTC, we observed the source AT 2025ulz/ZTF25abjmnps reported by Stein et al. (GCN 41414) discovered during ZTF follow-up of the low-significance gravitational wave event S250818k (GCN 41437, 41440; https://gracedb.ligo.org/superevents/S250818k), which is a candidate binary neutron star merger. We took images in g and i bands.\n\nWe subtracted Gemini/GMOS-N observations taken on the previous night (starting at 2025-08-22 05:43:02) from these observations.  In the g-band, no source is detected in the difference image.   The i-band difference image reveals a positive source at the location of AT2025ulz/ZTF25abjmnps.  This positive detection corresponds to an increase in brightness of 0.63+/-0.09 microJanksy, which indicates rising emission in i-band at this phase.\n\nFurther observations are planned and additional follow-up is encouraged to further monitor the transient’s evolution.\n\nWe thank the staff of the Gemini Observatory, in particular Jen Andrews, Brian Lemaux, and Jen Miller, for their excellent support in rapidly scheduling these observations. "
+}

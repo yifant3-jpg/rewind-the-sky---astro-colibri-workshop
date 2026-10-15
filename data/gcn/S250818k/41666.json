@@ -1,0 +1,10 @@
+{
+  "body": "Lauren Rhodes (McGill U.), Oleg Smirnov (Rhodes U. / SARAO), Kunal Mooley (IIT Kanpur, Caltech), Patrick Woudt (U. Cape Town)\n\nWe reprocessed both MeerKAT S-band (3 GHz) datasets of the AT2025ulz (Stein et al., GCN 41414) field reported previously (Bruni et al. GCNs 41594, 41500) in the context of the subthreshold GW event S250818k (LVK Collaboration, GCNs 41437, 41440). Our reprocessing reveals that in both datasets, from Aug 28 (10 days post-GW-event) and Aug 21 (4 days post-GW-event), the source has a constant integrated flux density of ~90+/10 uJy. Thus, we do not find any evidence for radio variability. Further, the extended nature of the radio source indicates that the emission is host galaxy dominated.\n\nWe caution all users of the SARAO Science Data Processor (SDP) continuum pipeline that the pipeline results must be carefully assessed before dissemination across the astronomical community. In the Aug 28 SDP images, there were large-scale artefacts, likely RFI-induced, that may be responsible for the excess flux measurement reported in GCN 41594.\n\nThe MeerKAT telescope is operated by the South African Radio Astronomy Observatory, which is a facility of the National Research Foundation, an agency of the Department of Science and Innovation.\n\n\n",
+  "subject": "LIGO/VIRGO/KAGRA S250818k: No evidence for radio variability of AT2025ulz in MeerKAT 3 GHz data",
+  "circularId": 41666,
+  "submittedHow": "email",
+  "eventId": "LIGO/Virgo/KAGRA S250818k",
+  "submitter": "Kunal Mooley at NRAO,Caltech <kmooley@caltech.edu>",
+  "bibcode": "2025GCN.41666....1R",
+  "createdOn": 1756873438140
+}

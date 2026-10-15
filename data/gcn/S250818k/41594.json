@@ -1,0 +1,11 @@
+{
+  "format": "text/plain",
+  "body": "G. Bruni [1], L. Piro [1], G. Gianfagna [1] and A. L. Thakur [1] report:\n\nWe re-observed the field of AT2025ulz (announced by Stein et al., GCN 41414), which is proposed as a candidate counterpart for the subthreshold GW event S250818k (LVK Collaboration, GCNs 41437, 41440) with the MeerKAT radio telescope under the program SCI-20241101-GB-01 (PI: Bruni) at 3 GHz (S4 band) starting on Aug 28, 14:20 UT (at 10 days post-trigger) for a total of 4 hours (3.23 hours on source). J1939-6342 was used for flux scale calibration, and J1609+2641 for phase referencing. Data was processed with the SARAO Science Data Processor (SDP) continuum pipeline. The image RMS was 5.3 uJy/beam.\n\nWe detect a clear flux increase in the radio emission with respect to the first epoch at 3.6 days post trigger (GCN 41500), with an integrated flux density of 157 +/- 9 uJy. The increment with respect to the first epoch is thus ~80 uJy.\n\nFurther MeerKAT observations are planned.\n\nThe MeerKAT telescope is operated by the South African Radio Astronomy Observatory, which is a facility of the National Research Foundation, an agency of the Department of Science and Innovation.\n—------------------------\n[1] INAF-IAPS\n",
+  "subject": "LIGO/Virgo/KAGRA S250818k: MeerKAT detection of an increase in radio flux from AT2025ulz",
+  "bibcode": "2025GCN.41594....1B",
+  "eventId": "LIGO/Virgo/KAGRA S250818k",
+  "submitter": "Gabriele Bruni at INAF <gabriele.bruni@inaf.it>",
+  "circularId": 41594,
+  "submittedHow": "web",
+  "createdOn": 1756490837777
+}
