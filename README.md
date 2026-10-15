@@ -12,6 +12,7 @@ Three case studies:
 | 3 | **S250206dm** — high-significance NSBH/BNS alert, improving localisation, 67 % Moon, IceCube and FRB candidates; no IACT history | [`rewind_sky_S250206dm.ipynb`](rewind_sky_S250206dm.ipynb) | [`REPORT_S250206dm.md`](REPORT_S250206dm.md) |
 
 A Chinese self-study script that explains the whole project from scratch: [`TALK_NOTES_zh.md`](TALK_NOTES_zh.md).
+**Final, self-contained report on the chosen case study S241125n:** [`FINAL_REPORT_S241125n.md`](FINAL_REPORT_S241125n.md) (Chinese) and [`FINAL_REPORT_S241125n_zh-en.md`](FINAL_REPORT_S241125n_zh-en.md) (Chinese–English).
 
 All notebooks are already executed (figures in [`figures/<event>/`](figures/)).
 Case study 2 is the research-grade one: primary sources only (LVK notices, GraceDB maps, NASA GCN circulars), cross-checked against the platform, the
